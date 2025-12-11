@@ -1,0 +1,40 @@
+{
+   "name": "woosa/woosa-plugin",
+   "type": "project",
+   "autoload": {
+      "classmap": [
+         "includes/",
+         "vendor/woosa/"
+      ]
+   },
+   "repositories": {
+      "11902712": {
+         "type": "composer",
+         "url": "https://gitlab.com/api/v4/group/11902712/-/packages/composer/"
+      }
+   },
+   "require": {
+      "php": ">=7.1",
+      "woosa/marketplace": "2.*",
+      "woosa/midlayer-oauth": "1.*",
+      "woosa/category-mapping": "2.*",
+      "woosa/support-chat": "1.*",
+      "rakit/validation": "^1.4"
+   },
+   "minimum-stability": "stable",
+   "config": {
+      "discard-changes": true,
+      "autoloader-suffix" : "Woosa_marktplaats"
+   },
+   "require-dev": {
+      "humbug/php-scoper": "^0.15.0"
+   },
+   "scripts": {
+      "prefix-vendor": [
+         "php ./vendor/humbug/php-scoper/bin/php-scoper add-prefix --output-dir=./vendor_prefixed --config=config/scoper.inc.php --force",
+         "rm -rf vendor",
+         "mv vendor_prefixed vendor",
+         "composer dump-autoload"
+      ]
+   }
+}

@@ -1,0 +1,2681 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2025-10-14 16:57+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/category-mapping/class-category-mapping-hook.php:99
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:134
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:135
+msgid "Cost per click"
+msgstr "Kosten per klik"
+
+#: includes/category-mapping/class-category-mapping-hook.php:134
+msgid "Cost:"
+msgstr "Kosten:"
+
+#: includes/category-mapping/class-category-mapping-hook.php:161
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:171
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:170
+msgid "Set as automatic"
+msgstr "Instellen als automatisch"
+
+#: includes/category-mapping/class-category-mapping-hook.php:166
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:176
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:175
+msgid "Total budget:"
+msgstr "Totaal budget:"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:22
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:22
+msgid "Manage title?"
+msgstr "Titel beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:32
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:32
+msgid "Use a different title than the product title."
+msgstr "Gebruik een andere titel dan de producttitel."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:36
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:36
+msgid "Title"
+msgstr "Titel"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:47
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:47
+msgid "Manage price type?"
+msgstr "Prijstype beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:57
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:57
+msgid "Use a different price type than the general settings."
+msgstr "Gebruik een ander prijstype dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:61
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:61
+#: includes/synchronization/class-synchronization-hook.php:69
+msgid "Price type"
+msgstr "Prijstype"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:74
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:74
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:48
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:48
+msgid "Manage price?"
+msgstr "Beheer prijs?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:84
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:84
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:58
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:58
+msgid "Use a different price than the general settings."
+msgstr "Gebruik een andere prijs dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:88
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:88
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:62
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:62
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:99
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:100
+msgid "Manage category?"
+msgstr "Categorie beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:109
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:110
+msgid "Use a different category than the general settings."
+msgstr "Gebruik een andere categorie dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:113
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:114
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:120
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:121
+msgid "Manage cost per click?"
+msgstr "Kosten per klik beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:130
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:131
+msgid "Use a different cost per click than the general settings."
+msgstr "Gebruik andere kosten per klik dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:143
+msgid "Cost per click:"
+msgstr "Kosten per klik:"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:197
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:195
+msgid "Manage shipping type?"
+msgstr "Verzendtype beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:207
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:205
+msgid "Use a different shipping type than the general settings."
+msgstr "Gebruik een ander verzendtype dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:212
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:210
+msgid "Shipping type"
+msgstr "Verzendtype"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:227
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:225
+msgid "Shipping cost"
+msgstr "Verzendkosten"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:238
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:236
+msgid "Shipping time"
+msgstr "Verzendtijd"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:253
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:251
+msgid "Shipping pickup location"
+msgstr "Afhaalpunt voor verzending"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:267
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:265
+msgid "Manage contact by email?"
+msgstr "Contacten beheren via e-mail?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:277
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:275
+msgid ""
+"Use a different value for the general setting \"Allow contact by email\"."
+msgstr ""
+"Gebruik een andere waarde voor de algemene instelling 'Contact via e-mail "
+"toestaan'."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:281
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:279
+#: includes/synchronization/class-synchronization-hook.php:62
+msgid "Allow contact by email"
+msgstr "Contact via e-mail toestaan"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:287
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:285
+msgid "No"
+msgstr "Nee"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:288
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:286
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:290
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:288
+msgid "Whether or not to show the email address on the ad."
+msgstr ""
+"Of het e-mailadres wel of niet in de advertentie moet worden weergegeven."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:294
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:292
+msgid "Manage salutation?"
+msgstr "Begroeting beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:304
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:302
+msgid "Use a different salutation than the general settings."
+msgstr "Gebruik een andere aanhef dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:308
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:306
+#: includes/synchronization/class-synchronization-hook.php:77
+msgid "Salutation"
+msgstr "Begroeting"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:321
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:319
+msgid "Manage seller name?"
+msgstr "Verkopersnaam beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:331
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:329
+msgid "Use a different seller name than the general settings."
+msgstr "Gebruik een andere verkopersnaam dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:335
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:333
+#: includes/synchronization/class-synchronization-hook.php:85
+msgid "Seller name"
+msgstr "Verkopersnaam"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:346
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:344
+msgid "Manage phone number?"
+msgstr "Telefoonnummer beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:356
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:354
+msgid "Use a different phone number than the general settings."
+msgstr ""
+"Gebruik een ander telefoonnummer dan in de algemene instellingen staat."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:360
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:358
+#: includes/synchronization/class-synchronization-hook.php:92
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:371
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:369
+msgid "Manage website URL?"
+msgstr "Website-URL beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:381
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:379
+msgid "Use a different website URL than the general settings."
+msgstr "Gebruik een andere website-URL dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:385
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:383
+#: includes/synchronization/class-synchronization-hook.php:99
+msgid "Website URL"
+msgstr "Website-URL"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:396
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:394
+msgid "Manage footer description?"
+msgstr "Voettekstbeschrijving beheren?"
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:406
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:404
+msgid "Use a different footer description than the general settings."
+msgstr "Gebruik een andere voettekstbeschrijving dan de algemene instellingen."
+
+#: includes/product-data-tab/templates/simple/tabs/general-tab.php:412
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:410
+#: includes/synchronization/class-synchronization-hook.php:106
+msgid "Footer description"
+msgstr "Voettekstbeschrijving"
+
+#: includes/product-data-tab/templates/variable/tabs/general-tab.php:96
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:70
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:70
+msgid ""
+"The price you would like to sell the product at. Notice that this value has "
+"to be greater than zero."
+msgstr ""
+"De prijs waarvoor u het product wilt verkopen. Let op: deze waarde moet "
+"groter zijn dan nul."
+
+#: includes/service-api/class-service-api-ad.php:61
+msgid "The ad title is required."
+msgstr "De advertentietitel is verplicht."
+
+#: includes/service-api/class-service-api-ad.php:62
+msgid "The ad description is required."
+msgstr "De advertentiebeschrijving is vereist."
+
+#: includes/service-api/class-service-api-ad.php:63
+msgid "The category is required."
+msgstr "De categorie is verplicht."
+
+#: includes/service-api/class-service-api-ad.php:64
+msgid "The price type is required."
+msgstr "Het prijstype is verplicht."
+
+#: includes/service-api/class-service-api-ad.php:65
+msgid "The price amount is required and must be greater than 0."
+msgstr "Het prijsbedrag is vereist en moet groter zijn dan 0."
+
+#: includes/service-api/class-service-api-ad.php:66
+msgid "The salutation is required."
+msgstr "De aanhef is vereist."
+
+#: includes/service-api/class-service-api-ad.php:67
+msgid "The seller name is required."
+msgstr "De verkopersnaam is vereist."
+
+#: includes/service-api/class-service-api-ad.php:68
+msgid ""
+"The postcode is required. Make sure it's defined in WooCommerce > Settigns > "
+"General > Store Address"
+msgstr ""
+"De postcode is vereist. Zorg ervoor dat deze is gedefinieerd in WooCommerce "
+"> Settigns > General > Store Address"
+
+#: includes/service-api/class-service-api-ad.php:71
+msgid ""
+"The shipping type is required and must be either \"Ship\" or \"Pickup\"."
+msgstr "Het verzendtype is verplicht en moet 'Verzenden' of 'Afhalen' zijn."
+
+#: includes/service-api/class-service-api-ad.php:72
+msgid "The shipping cost is required."
+msgstr "Verzendkosten zijn vereist."
+
+#: includes/service-api/class-service-api-ad.php:73
+msgid "The shipping time is required."
+msgstr "De verzendtijd is vereist."
+
+#: includes/service-api/class-service-api-ad.php:74
+msgid "The shipping pickup location is required."
+msgstr "Het afhaalpunt voor de verzending is vereist."
+
+#: includes/service-api/class-service-api.php:146
+msgid "Fixed"
+msgstr "Vast"
+
+#: includes/service-api/class-service-api.php:147
+msgid "Free"
+msgstr "Vrij"
+
+#: includes/service-api/class-service-api.php:148
+msgid "Bidding"
+msgstr "Bieden"
+
+#: includes/service-api/class-service-api.php:149
+msgid "Bidding from"
+msgstr "Bieden vanaf"
+
+#: includes/service-api/class-service-api.php:150
+msgid "See description"
+msgstr "Zie beschrijving"
+
+#: includes/service-api/class-service-api.php:151
+msgid "Credible bid"
+msgstr "Geloofwaardig bod"
+
+#: includes/service-api/class-service-api.php:164
+msgid "Male"
+msgstr "Mannelijk"
+
+#: includes/service-api/class-service-api.php:165
+msgid "Female"
+msgstr "Vrouwelijk"
+
+#: includes/service-api/class-service-api.php:166
+msgid "Family"
+msgstr "Familie"
+
+#: includes/service-api/class-service-api.php:167
+msgid "Company"
+msgstr "Bedrijf"
+
+#: includes/service-api/class-service-api.php:180
+msgid "Ship"
+msgstr "Schip"
+
+#: includes/service-api/class-service-api.php:181
+msgid "Pickup"
+msgstr "Ophalen"
+
+#: includes/service-api/class-service-api.php:194
+msgid "2-5 working days"
+msgstr "2-5 werkdagen"
+
+#: includes/service-api/class-service-api.php:195
+msgid "6-10 working days"
+msgstr "6-10 working days"
+
+#: includes/synchronization/class-synchronization-hook.php:54
+msgid "Use WooCommerce price"
+msgstr "Gebruik WooCommerce prijs"
+
+#: includes/synchronization/class-synchronization-hook.php:55
+msgid "Enable this if you want to use the default WooCommerce price."
+msgstr ""
+"Schakel dit in als je de standaardprijs van WooCommerce wilt gebruiken."
+
+#: includes/synchronization/class-synchronization-hook.php:63
+msgid "Enable this if you want to show the email address on the ad."
+msgstr "Schakel dit in als u het e-mailadres in de advertentie wilt weergeven."
+
+#: includes/synchronization/class-synchronization-hook.php:70
+msgid "Choose the source of value to be used as price type."
+msgstr "Selecteer de bron van de waarde die u als prijstype wilt gebruiken."
+
+#: includes/synchronization/class-synchronization-hook.php:78
+msgid "Choose the default salutation form."
+msgstr "Kies de standaardaanhef."
+
+#: includes/synchronization/class-synchronization-hook.php:86
+msgid "Define the default seller name."
+msgstr "Definieer de standaardverkopersnaam."
+
+#: includes/synchronization/class-synchronization-hook.php:93
+msgid "Define the default seller phone number."
+msgstr "Definieer het standaardtelefoonnummer van de verkoper."
+
+#: includes/synchronization/class-synchronization-hook.php:100
+msgid "An external URL that is shown on the ad page."
+msgstr "Een externe URL die op de advertentiepagina wordt weergegeven."
+
+#: includes/synchronization/class-synchronization-hook.php:107
+msgid "Define the description that will be added to the end of each ad."
+msgstr ""
+"Definieer de beschrijving die aan het einde van elke advertentie wordt "
+"toegevoegd."
+
+#: includes/synchronization/class-synchronization-hook.php:122
+msgid "Type"
+msgstr "Type"
+
+#: includes/synchronization/class-synchronization-hook.php:123
+msgid "Choose the default shipping type."
+msgstr "Kies het standaard verzendtype."
+
+#: includes/synchronization/class-synchronization-hook.php:130
+#: vendor/woosa/order-details/templates/popup-content.php:37
+#: vendor/woosa/order-details/templates/popup-content.php:126
+msgid "Cost"
+msgstr "Kosten"
+
+#: includes/synchronization/class-synchronization-hook.php:131
+msgid "Define the default shipping cost."
+msgstr "Definieer de standaard verzendkosten."
+
+#: includes/synchronization/class-synchronization-hook.php:138
+msgid "Time"
+msgstr "Tijd"
+
+#: includes/synchronization/class-synchronization-hook.php:139
+msgid "Choose the default shipping time."
+msgstr "Kies de standaardverzendtijd."
+
+#: includes/synchronization/class-synchronization-hook.php:147
+msgid "Pickup location"
+msgstr "Ophaallocatie"
+
+#: includes/synchronization/class-synchronization-hook.php:148
+msgid "Define the default shipping pickup location (zipcode)."
+msgstr "Definieer de standaard afhaallocatie voor verzending (postcode)."
+
+#: vendor/woosa/authorization/class-module-authorization-hook-settings.php:35
+msgid "Authorization"
+msgstr "Autorisatie"
+
+#: vendor/woosa/authorization/class-module-authorization-hook-settings.php:46
+#, php-format
+msgid "Connect %s account"
+msgstr "Verbind %s account"
+
+#: vendor/woosa/authorization/class-module-authorization-hook-settings.php:127
+#, php-format
+msgid "%s Account"
+msgstr "%s Account"
+
+#: vendor/woosa/authorization/class-module-authorization.php:138
+#, php-format
+msgid "The authorization failed due to: %s"
+msgstr "De autorisatie is mislukt vanwege: %s"
+
+#: vendor/woosa/authorization/class-module-authorization.php:150
+#: vendor/woosa/authorization/class-module-authorization.php:314
+msgid "Unauthorized"
+msgstr "Niet geautoriseerd"
+
+#: vendor/woosa/authorization/class-module-authorization.php:153
+#: vendor/woosa/authorization/class-module-authorization.php:307
+msgid "Authorized"
+msgstr "Geautoriseerd"
+
+#: vendor/woosa/authorization/class-module-authorization.php:274
+msgid "Status:"
+msgstr "Status:"
+
+#: vendor/woosa/authorization/class-module-authorization.php:277
+msgid "click to revoke"
+msgstr "klik om in te trekken"
+
+#: vendor/woosa/authorization/class-module-authorization.php:277
+msgid "click to authorize"
+msgstr "klik om te autoriseren"
+
+#: vendor/woosa/authorization/templates/authorization-ui.php:19
+#: vendor/woosa/heartbeat/templates/heartbeat-ui.php:21
+#: vendor/woosa/heartbeat/templates/heartbeat-ui.php:37
+msgid "Status "
+msgstr "Status "
+
+#: vendor/woosa/authorization/templates/authorization-ui.php:26
+#, php-format
+msgid ""
+"Questions about the authorization of your %s account? Read our %sHelp Center "
+"article%s, we will guide you step-by-step through the process."
+msgstr ""
+"Vragen over de autorisatie van je %s account? Lees ons %sHelp Center-"
+"artikel%s, we begeleiden je stap voor stap door het proces."
+
+#: vendor/woosa/authorization/templates/authorization-ui.php:54
+msgid "Click to revoke"
+msgstr "Klik om in te trekken"
+
+#: vendor/woosa/authorization/templates/authorization-ui.php:56
+msgid "Click to authorize"
+msgstr "Klik om te autoriseren"
+
+#: vendor/woosa/authorization/templates/authorization-ui.php:75
+#: vendor/woosa/settings/class-module-settings-hook-dashboard.php:69
+#: vendor/woosa/settings/class-module-settings-hook.php:188
+msgid "Settings"
+msgstr "Instellingen"
+
+#: vendor/woosa/authorization/templates/authorization-ui.php:80
+msgid "Save settings"
+msgstr "Instellingen opslaan"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-ajax.php:54
+msgid "Please select the categories you want to connect."
+msgstr "Selecteer de categorieën die je wilt verbinden."
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-ajax.php:65
+msgid "These categories are already connected."
+msgstr "Deze categorieën zijn al verbonden."
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-ajax.php:204
+msgid "Changes have been saved!"
+msgstr "Wijzigingen zijn opgeslagen!"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-ajax.php:231
+msgid "Nothing to copy!"
+msgstr "Niets om te kopiëren!"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-ajax.php:238
+msgid "Changes have been copied!"
+msgstr "Wijzigingen zijn gekopieerd!"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:59
+msgid "Save"
+msgstr "Opslaan"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:60
+msgid "Close"
+msgstr "Sluit"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:61
+#: vendor/woosa/util/class-util-status.php:103
+#: vendor/woosa/util/class-util-status.php:108
+#: vendor/woosa/util/class-util.php:364 vendor/woosa/util/class-util.php:368
+msgid "Processing..."
+msgstr "Verwerken…"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:62
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:38
+msgid "Connect"
+msgstr "Verbind"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:64
+msgid "Product content"
+msgstr "Product inhoud"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:65
+msgid "Are you sure you want to unmap this category?"
+msgstr "Weet je zeker dat je deze categorie wilt verwijderen?"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:66
+msgid "Are you sure you you want to upload the content?"
+msgstr "Weet je zeker dat je de inhoud wilt uploaden?"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-assets.php:67
+msgid "Configure category"
+msgstr "Categorie configureren"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-settings.php:35
+msgid "Category Mapping"
+msgstr "Categorie Koppelen"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping-hook-settings.php:46
+msgid "Connect categories"
+msgstr "Categorieën koppelen"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping.php:63
+#: vendor/woosa/category-mapping/class-module-category-mapping.php:92
+#: vendor/woosa/field-generator/templates/fields/data-mapper.php:14
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:48
+#: vendor/woosa/synchronization/class-module-synchronization.php:162
+msgid "Product custom field"
+msgstr "Product custom field"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping.php:64
+#: vendor/woosa/category-mapping/class-module-category-mapping.php:93
+#: vendor/woosa/field-generator/templates/fields/data-mapper.php:15
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:50
+msgid "Product attribute"
+msgstr "Product eigenschap"
+
+#: vendor/woosa/category-mapping/class-module-category-mapping.php:101
+msgid "(Unit)"
+msgstr "(Eenheid)"
+
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:21
+#, php-format
+msgid "%s Category"
+msgstr "%s Categorie"
+
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:24
+msgid "WooCommerce Category"
+msgstr "WooCommerce Categorie"
+
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:27
+#: vendor/woosa/worker/templates/worker-ui.php:20
+#: vendor/woosa/worker/templates/worker-ui.php:85
+msgid "Action"
+msgstr "Actie"
+
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:44
+msgid "The categories have been connected."
+msgstr "De categorieën zijn gekoppeld."
+
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:46
+msgid "The connected categories have been removed."
+msgstr "De verbonden categorieën zijn verwijderd."
+
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:69
+msgid "Configure category fields."
+msgstr "Categorievelden configureren."
+
+#: vendor/woosa/category-mapping/templates/category-mapping-ui.php:73
+msgid "Remove category connection."
+msgstr "Categorieverbinding verwijderen."
+
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:28
+#, php-format
+msgid "Mandatory fields for category \"%s\""
+msgstr "Verplichte velden voor categorie \"%s\""
+
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:33
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:51
+msgid "Field name"
+msgstr "Naam veld"
+
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:34
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:52
+msgid "Source value"
+msgstr "Bron waarde"
+
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:46
+#, php-format
+msgid "Optional fields for category \"%s\""
+msgstr "Optionele velden voor categorie \"%s\""
+
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:69
+msgid "Save config"
+msgstr "Configuratie opslaan"
+
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:72
+msgid "Copy config"
+msgstr "Configuratie kopiëren"
+
+#: vendor/woosa/category-mapping/templates/popup-map-field.php:84
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: vendor/woosa/category-selection/class-module-category-selection-hook-ajax.php:83
+msgid "You have to type at least 3 characters!"
+msgstr "U moet minimaal 3 tekens typen!"
+
+#: vendor/woosa/category-selection/class-module-category-selection-hook-ajax.php:150
+#: vendor/woosa/order-details/templates/popup-content.php:21
+msgid "No results found."
+msgstr "Geen resultaten gevonden."
+
+#: vendor/woosa/category-selection/templates/list.php:23
+msgid "Select"
+msgstr "Selecteer"
+
+#: vendor/woosa/category-selection/templates/select/general.php:16
+#: vendor/woosa/category-selection/templates/select/product.php:17
+#: vendor/woosa/field-generator/templates/fields/data-mapper.php:30
+#: vendor/woosa/field-generator/templates/fields/text.php:50
+#: vendor/woosa/order-details/templates/popup-content.php:81
+#: vendor/woosa/order-details/templates/popup-content.php:98
+#: vendor/woosa/synchronization/class-module-synchronization.php:179
+#: vendor/woosa/synchronization/class-module-synchronization.php:217
+#: vendor/woosa/synchronization/class-module-synchronization.php:253
+msgid "Please select"
+msgstr "Selecteer a.u.b"
+
+#: vendor/woosa/field-generator/assets/js/module-field-generator.js:91
+msgid "Sorry, you cannot add more than 15 shipping cost rules."
+msgstr "Helaas, u kunt niet meer dan 15 verzendkostenregels toevoegen."
+
+#: vendor/woosa/field-generator/assets/js/module-field-generator.js:114
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:28
+msgid "No rules available."
+msgstr "Geen regels beschikbaar."
+
+#: vendor/woosa/field-generator/templates/fields/bundle_discounts.php:57
+#: vendor/woosa/field-generator/templates/fields/bundle_discounts.php:77
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+#: vendor/woosa/field-generator/templates/fields/bundle_discounts.php:58
+#: vendor/woosa/field-generator/templates/fields/bundle_discounts.php:78
+msgid "Price discount (%)"
+msgstr "Prijskorting (%)"
+
+#: vendor/woosa/field-generator/templates/fields/bundle_discounts.php:64
+#, php-format
+msgid "Bundle #%s"
+msgstr "Bundel #%s"
+
+#: vendor/woosa/field-generator/templates/fields/data-mapper.php:38
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:68
+msgid "Specify the custom field name"
+msgstr "Geef de naam van de custom field op"
+
+#: vendor/woosa/field-generator/templates/fields/data-mapper.php:46
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:73
+msgid "Specify below the slug or name of the attribute."
+msgstr "Geef hieronder de slug of naam van het attribuut op."
+
+#: vendor/woosa/field-generator/templates/fields/data-mapper.php:51
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:78
+msgid "only the first value of the attribute values will be used."
+msgstr "wordt alleen de eerste waarde van de attribuut waarden gebruikt."
+
+#: vendor/woosa/field-generator/templates/fields/data-mapper.php:52
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:79
+msgid "it does not work for custom attributes and variable products."
+msgstr "het werkt niet voor aangepaste attributen en variabele producten."
+
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:47
+#: vendor/woosa/synchronization/class-module-synchronization.php:160
+msgid "Default"
+msgstr "Standaard"
+
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:49
+#: vendor/woosa/synchronization/class-module-synchronization.php:163
+msgid "Product SKU"
+msgstr "Product SKU"
+
+#: vendor/woosa/field-generator/templates/fields/field_value_source.php:54
+msgid "Product identifier (GTIN, UPC, EAN, or ISBN)"
+msgstr "Product identifier (GTIN, UPC, EAN, or ISBN)"
+
+#: vendor/woosa/field-generator/templates/fields/media_upload.php:30
+msgid "Select file"
+msgstr "Selecteer bestand"
+
+#: vendor/woosa/field-generator/templates/fields/onlyread.php:21
+msgid "No value available"
+msgstr "Geen waarde beschikbaar"
+
+#: vendor/woosa/field-generator/templates/fields/relative_date_selector.php:14
+#: vendor/woosa/util/class-util.php:975
+msgid "Day(s)"
+msgstr "Dag(en)"
+
+#: vendor/woosa/field-generator/templates/fields/relative_date_selector.php:15
+#: vendor/woosa/util/class-util.php:976
+msgid "Week(s)"
+msgstr "Week(en)"
+
+#: vendor/woosa/field-generator/templates/fields/relative_date_selector.php:16
+#: vendor/woosa/util/class-util.php:977
+msgid "Month(s)"
+msgstr "Maand(en)"
+
+#: vendor/woosa/field-generator/templates/fields/relative_date_selector.php:17
+#: vendor/woosa/util/class-util.php:978
+msgid "Year(s)"
+msgstr "Jaar(en)"
+
+#: vendor/woosa/field-generator/templates/fields/shipping_cost_rules.php:81
+msgid "Enable shipping costs based on weight"
+msgstr "Verzendkosten op basis van gewicht inschakelen"
+
+#: vendor/woosa/field-generator/templates/fields/submit_button.php:20
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: vendor/woosa/field-generator/templates/fields/use_wc_price.php:52
+msgid ""
+"Adjust the price (e.g. \"10\" for fixed amount or \"10%\" for percentage "
+"amount)"
+msgstr ""
+"Pas de prijs aan (bijvoorbeeld “10” voor een vast bedrag of “10%” voor een "
+"percentage)"
+
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:19
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:51
+#, php-format
+msgid "Weight From (%s)"
+msgstr "Gewicht vanaf (%s)"
+
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:20
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:52
+#, php-format
+msgid "Weight To (%s)"
+msgstr "Gewicht naar (%s)"
+
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:21
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:53
+#, php-format
+msgid "Cost (%s)"
+msgstr "Kosten (%s)"
+
+#: vendor/woosa/field-generator/templates/parts/shipping_cost_rules_table.php:78
+msgid "Add rule"
+msgstr "Regel toevoegen"
+
+#: vendor/woosa/heartbeat/class-module-heartbeat-hook-settings.php:35
+msgid "Heartbeat"
+msgstr "Heartbeat"
+
+#: vendor/woosa/heartbeat/class-module-heartbeat-hook-settings.php:46
+#: vendor/woosa/heartbeat/templates/heartbeat-ui.php:34
+msgid "External cron job"
+msgstr "Externe cron job"
+
+#: vendor/woosa/heartbeat/class-module-heartbeat.php:191
+#: vendor/woosa/heartbeat/class-module-heartbeat.php:196
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: vendor/woosa/heartbeat/class-module-heartbeat.php:192
+#: vendor/woosa/heartbeat/class-module-heartbeat.php:195
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: vendor/woosa/heartbeat/class-module-heartbeat.php:208
+#: vendor/woosa/tools/class-module-tools.php:44
+msgid "Click to disable"
+msgstr "Klik om uit te schakelen"
+
+#: vendor/woosa/heartbeat/class-module-heartbeat.php:208
+#: vendor/woosa/tools/class-module-tools.php:44
+msgid "Click to enable"
+msgstr "Klik om in te schakelen"
+
+#: vendor/woosa/heartbeat/templates/heartbeat-ui.php:18
+msgid "Scheduled action"
+msgstr "Geplande actie"
+
+#: vendor/woosa/heartbeat/templates/heartbeat-ui.php:28
+#, php-format
+msgid ""
+"By default, the plugin uses a scheduled action called %s, which runs every "
+"minute to trigger the processing of plugin tasks. This action relies on "
+"WordPress's default cron system, meaning it only runs when someone visits "
+"your website. If your website experiences a period of inactivity, the "
+"scheduled action won't run until the next visit. As a result, the plugin may "
+"not execute tasks at the intended intervals, potentially causing delays."
+msgstr ""
+"Standaard gebruikt de plugin een geplande actie genaamd %s, die elke minuut "
+"wordt uitgevoerd om de verwerking van plugin taken te starten. Deze actie "
+"maakt gebruik van het standaard cron systeem van WordPress, wat betekent dat "
+"het alleen wordt uitgevoerd wanneer iemand je website bezoekt. Als je "
+"website een periode van inactiviteit doormaakt, zal de geplande actie niet "
+"starten tot het volgende bezoek. Als gevolg daarvan kan het zijn dat de "
+"plugin taken niet op de geplande intervallen uitvoert, waardoor vertragingen "
+"kunnen ontstaan."
+
+#: vendor/woosa/heartbeat/templates/heartbeat-ui.php:44
+#, php-format
+msgid ""
+"By enabling this, our cron job system will ping your website every minute "
+"(%sat this URL%s) to trigger the processing of plugin tasks. Unlike the "
+"scheduled action, this will reliably run every minute, regardless of website "
+"traffic."
+msgstr ""
+"Door dit in te schakelen, zal ons crontaaksysteem elke minuut je website "
+"pingen (%sat this URL%s) om de verwerking van plugin-taken te starten. In "
+"tegenstelling tot de geplande actie, zal deze betrouwbaar elke minuut worden "
+"uitgevoerd, ongeacht het websiteverkeer."
+
+#: vendor/woosa/logger/class-module-logger-hook-settings.php:35
+msgid "Logs"
+msgstr "Logs"
+
+#: vendor/woosa/logger/class-module-logger-hook-settings.php:46
+msgid "List of logs"
+msgstr "Lijst met logboeken"
+
+#: vendor/woosa/logger/class-module-logger-hook-settings.php:182
+msgid "Back to logs"
+msgstr "Terug naar logs"
+
+#: vendor/woosa/logger/class-module-logger-hook-settings.php:199
+msgid "Search"
+msgstr "Zoek"
+
+#: vendor/woosa/logger/class-module-logger-hook.php:127
+#, php-format
+msgid "Cannot open <%s>\n"
+msgstr "Kan <%s> niet openen\n"
+
+#: vendor/woosa/logger/class-module-logger-hook.php:226
+#, php-format
+msgid "%1$s in %2$s on line %3$s"
+msgstr "%1$s in %2$s op regel %3$s"
+
+#: vendor/woosa/logger/class-module-logger-table.php:53
+msgid "Download"
+msgstr "Download"
+
+#: vendor/woosa/logger/class-module-logger-table.php:54
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: vendor/woosa/logger/class-module-logger-table.php:124
+msgid "Source"
+msgstr "Bron"
+
+#: vendor/woosa/logger/class-module-logger-table.php:125
+msgid "Date Created"
+msgstr "Datum Aangemaakt"
+
+#: vendor/woosa/logger/class-module-logger-table.php:126
+msgid "File Size"
+msgstr "Bestandsgrootte"
+
+#: vendor/woosa/marketplace/action-bulker/class-module-marketplace-action-bulker.php:28
+#, php-format
+msgid "%s: Publish / Update"
+msgstr "%s: Publiceren / Bijwerken"
+
+#: vendor/woosa/marketplace/action-bulker/class-module-marketplace-action-bulker.php:37
+#, php-format
+msgid "%s: Pause / Unpause"
+msgstr "%s: Pauzeren / Hervatten"
+
+#: vendor/woosa/marketplace/action-bulker/class-module-marketplace-action-bulker.php:46
+#, php-format
+msgid "%s: Delete"
+msgstr "%s: Verwijderen"
+
+#: vendor/woosa/marketplace/action-bulker/class-module-marketplace-action-bulker.php:102
+#, php-format
+msgid ""
+"It seems this variation (#%s) does not have an attribute value assigned, "
+"therefore we cannot process it. Make sure an attribute value is assigned "
+"correctly to this variation!"
+msgstr ""
+"Het lijkt erop dat aan deze variatie (#%s) geen attribuut waarde is "
+"toegekend, daarom kunnen we deze niet verwerken. Zorg ervoor dat een "
+"attribuut waarde correct is toegewezen aan deze variatie!"
+
+#: vendor/woosa/marketplace/category-mapping/class-module-marketplace-category-mapping-hook.php:40
+msgid "How does it work?"
+msgstr "Hoe werkt het?"
+
+#: vendor/woosa/marketplace/category-mapping/class-module-marketplace-category-mapping-hook.php:41
+#, php-format
+msgid ""
+"By connecting %1$s categories with your shop categories it means that the "
+"products from your shop categories will be published to the connected %1$s "
+"categories."
+msgstr ""
+"Door %1$s categorieën te koppelen aan uw winkelcategorieën, worden de "
+"producten uit uw winkelcategorieën gepubliceerd in de gekoppelde %1$s "
+"categorieën."
+
+#: vendor/woosa/marketplace/class-module-marketplace-hook.php:88
+msgid "Sync products & import orders"
+msgstr "Producten synchroniseren en bestellingen importeren"
+
+#: vendor/woosa/meta/class-module-meta.php:200
+#, php-format
+msgid "%s variation"
+msgid_plural "%s variations"
+msgstr[0] "%s variatie"
+msgstr[1] "%s variaties"
+
+#: vendor/woosa/midlayer/class-module-midlayer-hook-ajax.php:57
+msgid ""
+"The shop could not be registered. Check if the permalinks are not set on "
+"Plain or check if your shop is public and accessible then try again."
+msgstr ""
+"De shop kon niet worden geregistreerd. Controleer of de permalinks niet zijn "
+"ingesteld op Plain of controleer of je shop openbaar en toegankelijk is en "
+"probeer het dan opnieuw."
+
+#: vendor/woosa/midlayer/class-module-midlayer-hook-authorization.php:50
+msgid "Granting authorization has failed, please check the logs."
+msgstr "Het verlenen van autorisatie is mislukt, controleer de logs."
+
+#: vendor/woosa/midlayer/class-module-midlayer-hook-authorization.php:87
+msgid "Shop Registration"
+msgstr "Shop Registratie"
+
+#: vendor/woosa/midlayer/class-module-midlayer-hook.php:81
+#: vendor/woosa/midlayer/class-module-midlayer-hook.php:115
+msgid "Shop secret key"
+msgstr "Secret key van de shop"
+
+#: vendor/woosa/midlayer/class-module-midlayer-hook.php:82
+msgid "This key is used to sign the requests to our servers."
+msgstr ""
+"Deze sleutel wordt gebruikt om de aanvragen naar onze servers te "
+"ondertekenen."
+
+#: vendor/woosa/midlayer/class-module-midlayer-hook.php:223
+msgid ""
+"We detected that your shop permalinks are set on Plain, please change it to "
+"any other option otherwise the plugin will not work properly!"
+msgstr ""
+"We hebben gedetecteerd dat je winkel permalinks is ingesteld op Plain, "
+"verander dit alsjeblieft naar een andere optie anders zal de plugin niet "
+"goed werken!"
+
+#: vendor/woosa/midlayer/class-module-midlayer.php:157
+msgid "Woosa Midlayer"
+msgstr "Woosa Midlayer"
+
+#: vendor/woosa/midlayer/class-module-midlayer.php:178
+msgid ""
+"The user that is necessary for creating WooCommerce API key & secret could "
+"not be created. Check logs."
+msgstr ""
+"De gebruiker die nodig is voor het maken van de WooCommerce API-sleutel & "
+"het geheim kon niet worden aangemaakt. Controleer de logs."
+
+#: vendor/woosa/midlayer/class-module-midlayer.php:223
+msgid "The WooCommerce API key & secret could not be created. Check logs."
+msgstr ""
+"De WooCommerce API-sleutel & het geheim konden niet worden aangemaakt. "
+"Controleer de logs."
+
+#: vendor/woosa/midlayer/templates/shop-registration.php:20
+msgid "We detected some changes in the shop which requires a new registration."
+msgstr ""
+"We hebben enkele wijzigingen in de winkel ontdekt waarvoor een nieuwe "
+"registratie nodig is."
+
+#: vendor/woosa/midlayer/templates/shop-registration.php:22
+msgid ""
+"Register your shop in our system is required to be able to communicate with "
+"it."
+msgstr ""
+"Je moet je winkel registreren in ons systeem om ermee te kunnen communiceren."
+
+#: vendor/woosa/midlayer/templates/shop-registration.php:26
+msgid "Click to register"
+msgstr "Klik om te registreren"
+
+#: vendor/woosa/order-column-status/class-module-order-column-status-hook-ajax.php:82
+#, php-format
+msgid "This order contains items fulfilled by %s"
+msgstr "Deze bestelling bevat artikelen vervuld door %s"
+
+#: vendor/woosa/order-column-status/class-module-order-column-status-hook-ajax.php:85
+msgid "Order id:"
+msgstr "Order id:"
+
+#: vendor/woosa/order-column-status/class-module-order-column-status-hook-ajax.php:91
+#: vendor/woosa/order-column-status/class-module-order-column-status-hook-ajax.php:93
+msgid "Tracking code:"
+msgstr "Traceer code:"
+
+#: vendor/woosa/order-details/class-module-order-details-hook-ajax.php:49
+msgid "Invalid order, try again!"
+msgstr "Ongeldige bestelling, probeer het opnieuw!"
+
+#: vendor/woosa/order-details/class-module-order-details-hook-ajax.php:85
+msgid "Please specify the order items you want to check delivery options for."
+msgstr "Selecteer de bestel items die je wilt annuleren."
+
+#: vendor/woosa/order-details/class-module-order-details-hook-ajax.php:123
+msgid "Please specify the order items you want to ship."
+msgstr "Selecteer de bestel items die je wilt verwerken."
+
+#: vendor/woosa/order-details/class-module-order-details-hook-ajax.php:132
+#, php-format
+msgid "Please make sure you specified the shipping carrier for the item: %s!"
+msgstr ""
+"Zorg ervoor dat je de verzendmaatschappij en het trackingnummer voor het "
+"artikel hebt opgegeven: %s!"
+
+#: vendor/woosa/order-details/class-module-order-details-hook-ajax.php:137
+#, php-format
+msgid "Please make sure you specified the tracking code for the item: %s!"
+msgstr ""
+"Zorg ervoor dat je de annuleringsreden voor het artikel hebt opgegeven: %s!"
+
+#: vendor/woosa/order-details/class-module-order-details-hook-ajax.php:177
+msgid "Please specify the order items you want to cancel."
+msgstr "Selecteer de bestel items die je wilt annuleren."
+
+#: vendor/woosa/order-details/class-module-order-details-hook-ajax.php:184
+#, php-format
+msgid ""
+"Please make sure you specified the cancellation reason for the item: %s!"
+msgstr ""
+"Zorg ervoor dat je de annuleringsreden voor het artikel hebt opgegeven: %s!"
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:57
+msgid "View Status"
+msgstr "Status Weergeven"
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:57
+msgid "Process Order"
+msgstr "Bestelling verwerken"
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:60
+#, php-format
+msgid ""
+"This order #%s has been proccessed. Click the button below to see the status."
+msgstr ""
+"Deze bestelling #%s is verwerkt. Klik op de knop hieronder om de status te "
+"zien."
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:60
+#, php-format
+msgid ""
+"This order #%s is not proccessed yet. Click the button below to see the "
+"options."
+msgstr ""
+"Deze bestelling #%s is nog niet verwerkt. Klik op de knop hieronder om de "
+"opties te bekijken."
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:93
+msgid "There are no items to process for this order. Possible reasons:"
+msgstr ""
+"Er zijn geen artikelen om te verwerken voor deze bestelling. Mogelijke "
+"redenen:"
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:95
+#, php-format
+msgid "All order items have been cancelled or are fulfilled by %s"
+msgstr "Alle bestellingsartikelen zijn geannuleerd of uitgevoerd door %s"
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:96
+msgid "The order was already processed at the time of import"
+msgstr "De bestelling was al verwerkt op het moment van invoer"
+
+#: vendor/woosa/order-details/class-module-order-details-hook.php:202
+msgid "This is an external unknown product"
+msgstr "Dit is een extern onbekend product"
+
+#: vendor/woosa/order-details/class-module-order-details.php:193
+msgid "All order items have been processed."
+msgstr "Alle bestel items zijn verwerkt."
+
+#: vendor/woosa/order-details/class-module-order-details.php:211
+msgid "Some order items could have not been processed."
+msgstr "Sommige bestellingen zijn mogelijk niet verwerkt."
+
+#: vendor/woosa/order-details/templates/popup-content.php:25
+msgid "Order items"
+msgstr "Bestel items"
+
+#: vendor/woosa/order-details/templates/popup-content.php:31
+#: vendor/woosa/order-details/templates/popup-content.php:120
+msgid "Name"
+msgstr "Naam"
+
+#: vendor/woosa/order-details/templates/popup-content.php:32
+#: vendor/woosa/order-details/templates/popup-content.php:121
+msgid "Shipping status"
+msgstr "Verzendstatus"
+
+#: vendor/woosa/order-details/templates/popup-content.php:33
+#: vendor/woosa/order-details/templates/popup-content.php:122
+msgid "Fulfill by"
+msgstr "Vervul door"
+
+#: vendor/woosa/order-details/templates/popup-content.php:34
+#: vendor/woosa/order-details/templates/popup-content.php:123
+msgid "Shipping carrier"
+msgstr "Verzendmaatschappij"
+
+#: vendor/woosa/order-details/templates/popup-content.php:35
+#: vendor/woosa/order-details/templates/popup-content.php:124
+msgid "Tracking code"
+msgstr "Tracking code"
+
+#: vendor/woosa/order-details/templates/popup-content.php:36
+#: vendor/woosa/order-details/templates/popup-content.php:125
+msgid "Cancellation Reason"
+msgstr "Reden van annulering"
+
+#: vendor/woosa/order-details/templates/popup-content.php:38
+#: vendor/woosa/order-details/templates/popup-content.php:127
+msgid "Qty"
+msgstr "Aantal"
+
+#: vendor/woosa/order-details/templates/popup-content.php:39
+#: vendor/woosa/order-details/templates/popup-content.php:128
+msgid "Total"
+msgstr "Totaal"
+
+#: vendor/woosa/order-details/templates/popup-content.php:136
+msgid "Ship selected items"
+msgstr "Verzend geselecteerde items"
+
+#: vendor/woosa/order-details/templates/popup-content.php:137
+msgid "Cancel selected items"
+msgstr "Annuleer geselecteerde items"
+
+#: vendor/woosa/order-details/templates/process-box.php:22
+#, php-format
+msgid "Order #%s"
+msgstr "Bestelling #%s"
+
+#: vendor/woosa/product-data-tab/class-module-product-data-tab-hook-ajax.php:48
+msgid "Invalid product, please try again!"
+msgstr "Ongeldig product, probeer het opnieuw!"
+
+#: vendor/woosa/product-data-tab/class-module-product-data-tab.php:66
+msgid "Please save the changes first!"
+msgstr "Sla de wijzigingen eerst op!"
+
+#: vendor/woosa/product-data-tab/templates/pagination.php:16
+msgid "Refresh"
+msgstr "Vernieuw"
+
+#: vendor/woosa/product-data-tab/templates/pagination.php:20
+#, php-format
+msgid "Pagination: %s"
+msgstr "Paginering: %s"
+
+#: vendor/woosa/product-data-tab/templates/pagination.php:22
+#: vendor/woosa/product-data-tab/templates/pagination.php:24
+msgid "Prev page"
+msgstr "Vorige pagina"
+
+#: vendor/woosa/product-data-tab/templates/pagination.php:28
+#: vendor/woosa/product-data-tab/templates/pagination.php:30
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: vendor/woosa/product-data-tab/templates/simple/panel.php:18
+#: vendor/woosa/product-data-tab/templates/variable/panel.php:40
+msgid "General"
+msgstr "Algemeen"
+
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:22
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:22
+msgid "Manage EAN?"
+msgstr "EAN beheren?"
+
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:32
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:32
+msgid "Use a different EAN code than the general settings."
+msgstr "Gebruik een andere EAN-code dan de algemene instellingen."
+
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:36
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:36
+msgid "EAN code"
+msgstr "EAN code"
+
+#: vendor/woosa/product-data-tab/templates/simple/tabs/general-tab.php:44
+#: vendor/woosa/product-data-tab/templates/variable/tabs/general-tab.php:44
+msgid "The EAN code associated with this product."
+msgstr "De EAN code die bij dit product hoort."
+
+#: vendor/woosa/product-data-tab/templates/variable/panel.php:16
+msgid "Variations"
+msgstr "Variaties"
+
+#: vendor/woosa/product-task/class-module-product-task-hook.php:50
+#, php-format
+msgid "%s: in-progress"
+msgstr "%s: in uitvoering"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:59
+msgid "Resource usage"
+msgstr "Gebruik van hulpbronnen"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:60
+msgid ""
+"Define the usage of the server resources to get the best performance from "
+"the plugin."
+msgstr ""
+"Definieer het gebruik van de serverbronnen om de beste prestaties uit de "
+"plug-in te halen."
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:65
+msgid "Low"
+msgstr "Laag"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:66
+msgid "Medium (recommended)"
+msgstr "Medium (aanbevolen)"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:67
+msgid "High"
+msgstr "Hoog"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:107
+msgid "Server Configuration Update Recommended!"
+msgstr "Serverconfiguratie-update aanbevolen!"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:108
+msgid ""
+"We strongly recommend increasing the following PHP directive(s) for optimal "
+"performance:"
+msgstr ""
+"Voor optimale prestaties raden wij u ten zeerste aan de volgende PHP-"
+"richtlijn(en) te verhogen:"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:137
+msgid "Directive"
+msgstr "Richtlijn"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:137
+msgid "Current value"
+msgstr "Huidige waarde"
+
+#: vendor/woosa/resource-usage/class-module-resource-usage-hook.php:137
+msgid "Recommended value"
+msgstr "Aanbevolen waarde"
+
+#: vendor/woosa/settings/class-module-settings-hook-ajax.php:64
+msgid "Changes have been saved successfully!"
+msgstr "Wijzigingen zijn succesvol opgeslagen!"
+
+#: vendor/woosa/settings/class-module-settings-hook-dashboard.php:75
+msgid "Debug mode"
+msgstr "Debug modus"
+
+#: vendor/woosa/settings/class-module-settings-hook-dashboard.php:78
+msgid "Enable this if you want to see advanced logs."
+msgstr "Schakel dit in als je geavanceerde logs wilt zien."
+
+#: vendor/woosa/settings/class-module-settings-hook-dashboard.php:83
+msgid "Remove configuration"
+msgstr "Configuratie verwijderen"
+
+#: vendor/woosa/settings/class-module-settings-hook-dashboard.php:86
+msgid ""
+"Enable this if you want to remove the plugin configuration when is "
+"uninstalled."
+msgstr ""
+"Schakel dit in als je de pluginconfiguratie wilt verwijderen wanneer deze "
+"wordt verwijderd."
+
+#: vendor/woosa/settings/class-module-settings.php:92
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: vendor/woosa/settings/class-module-settings.php:93
+msgid "Licence and account"
+msgstr "Licentie en account"
+
+#: vendor/woosa/settings/templates/settings-page.php:22
+msgid "Menu"
+msgstr "Menu"
+
+#: vendor/woosa/synchronization/class-module-synchronization-hook-settings.php:35
+msgid "Synchronization"
+msgstr "Synchronisatie"
+
+#: vendor/woosa/synchronization/class-module-synchronization-hook-settings.php:46
+msgid "Import & sync products"
+msgstr "Importeer & synchroniseer producten"
+
+#: vendor/woosa/synchronization/class-module-synchronization-hook-settings.php:128
+#: vendor/woosa/worker/class-module-worker-hook-settings.php:130
+msgid "Key"
+msgstr "Sleutel"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:114
+msgid "Products"
+msgstr "Producten"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:117
+msgid "Synchronize products"
+msgstr "Producten synchroniseren"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:118
+#, php-format
+msgid ""
+"Enable this if you want to automatically synchronize your shop's products "
+"with %s whenever a product is created, updated, trashed or deleted."
+msgstr ""
+"Schakel dit in als u de producten van uw winkel automatisch wilt "
+"synchroniseren met %s wanneer een product wordt aangemaakt, bijgewerkt, in "
+"de prullenbak geplaatst of verwijderd."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:124
+msgid "Do not synchronize new products"
+msgstr "Synchroniseer geen nieuwe producten"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:128
+msgid ""
+"Enable this if you want to prevent newly created products in your shop from "
+"being automatically synchronized."
+msgstr ""
+"Schakel dit in als u wilt voorkomen dat nieuw aangemaakte producten in uw "
+"winkel automatisch worden gesynchroniseerd."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:132
+msgid "Do not synchronize prices"
+msgstr "Synchroniseer geen prijzen"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:136
+msgid ""
+"Enable this if you want to prevent product prices from being automatically "
+"synchronized when updated in your shop."
+msgstr ""
+"Schakel dit in als u wilt voorkomen dat productprijzen automatisch worden "
+"gesynchroniseerd wanneer ze in uw winkel worden bijgewerkt."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:140
+msgid "Pause offers for trashed products"
+msgstr "Pauzeer aanbiedingen voor weggegooide producten"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:144
+#, php-format
+msgid ""
+"Enable this if you want to pause the %s offer when its corresponding product "
+"is moved to the trash in your shop."
+msgstr ""
+"Schakel dit in als u de %s-aanbieding wilt pauzeren wanneer het bijbehorende "
+"product naar de prullenbak in uw winkel wordt verplaatst."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:148
+msgid "Preserve stock offset"
+msgstr "Voorraadcompensatie behouden"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:149
+msgid ""
+"Define a value that will be subtracted from the product stock. This will "
+"help to avoid selling out of stock products."
+msgstr ""
+"Definieer een waarde die zal worden afgetrokken van de productvoorraad. Dit "
+"zal helpen om te voorkomen dat producten zonder voorraad worden verkocht."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:155
+msgid "Internal reference source"
+msgstr "Interne referentiebron"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:156
+msgid "Choose the source of value to be used as internal product reference."
+msgstr ""
+"Kies de bron van waarde die moet worden gebruikt als interne "
+"productreferentie."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:161
+msgid "Product id"
+msgstr "Product ID"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:168
+msgid "EAN source"
+msgstr "EAN bron"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:169
+msgid "Choose the source of value to be used as product EAN."
+msgstr "Kies de bron van waarde die als product EAN moet worden gebruikt."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:175
+msgid "Condition"
+msgstr "Conditie"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:177
+msgid "Choose which product condition to be used as default."
+msgstr "Kies welke product conditie als standaard moet worden gebruikt."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:185
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:188
+msgid "Import orders"
+msgstr "Importeer bestellingen"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:189
+#, php-format
+msgid ""
+"Enable this if you to automatically import orders from %s into your shop."
+msgstr ""
+"Schakel dit in als u automatisch bestellingen van %s in uw winkel wilt "
+"importeren."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:195
+msgid "Disable processing order email"
+msgstr "E-mail voor het verwerken van bestellingen uitschakelen"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:196
+msgid ""
+"Enable this if you want to disable the email that is received by customer "
+"when the imported order has status processing."
+msgstr ""
+"Schakel dit in als u de e-mail wilt uitschakelen die door de klant wordt "
+"ontvangen wanneer de geïmporteerde bestelling de status van verwerking heeft."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:203
+msgid "Disable completed order email"
+msgstr "E-mail met voltooide bestelling uitschakelen"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:204
+msgid ""
+"Enable this if you want to disable the email that is received by customer "
+"when the imported order has status completed."
+msgstr ""
+"Schakel dit in als u de e-mail wilt uitschakelen die door de klant wordt "
+"ontvangen wanneer de geïmporteerde bestelling de status voltooid heeft."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:211
+msgid "Import frequency"
+msgstr "Importfrequentie"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:212
+msgid "Choose how often to import orders."
+msgstr "Kies hoe vaak u bestellingen wilt importeren."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:218
+msgid "Every 10 minutes"
+msgstr "Elke 10 minuuten"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:219
+msgid "Every 30 minutes"
+msgstr "Elke 30 minuten"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:220
+msgid "Hourly"
+msgstr "Per uur"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:225
+msgid "Address format"
+msgstr "Adres formaat"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:226
+msgid "Choose which address format to be used for the imported orders."
+msgstr ""
+"Kies welke adresnotatie moet worden gebruikt voor de geïmporteerde "
+"bestellingen."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:238
+msgid "Shipping"
+msgstr "Verzending"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:241
+msgid "Use my shipping carrier"
+msgstr "Gebruik mijn vervoerder"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:242
+msgid "Enable this if you want to use your own shipping carrier by default."
+msgstr "Schakel dit in als u standaard uw eigen verzendbedrijf wilt gebruiken."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:248
+msgid "My shipping carrier"
+msgstr "Mijn vervoerder"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:249
+msgid "Choose which shipping carrier to be used as default."
+msgstr "Kies welke vervoerder u standaard wilt gebruiken."
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:257
+msgid "My tracking code source"
+msgstr "Mijn trackingcodebron"
+
+#: vendor/woosa/synchronization/class-module-synchronization.php:259
+#, php-format
+msgid ""
+"Define the order meta key where the tracking code is added by your 3rd-party "
+"shipping plugin. If the meta key value contains more than just the tracking "
+"code (e.g., an array/object with multiple values), you must specify the path "
+"to the tracking code within the array/object. For example, if the meta key "
+"is %s and its value is an array like: %s then you should provide the meta "
+"key as: %s"
+msgstr ""
+"Definieer de ordermetasleutel waar de trackingcode wordt toegevoegd door uw "
+"3e-partij verzendplug-in. Als de metasleutelwaarde meer bevat dan alleen de "
+"trackingcode (bijvoorbeeld een array/object met meerdere waarden), moet u "
+"het pad naar de trackingcode binnen de array/object opgeven. Als de "
+"metasleutel bijvoorbeeld %s is en de waarde ervan een array is zoals: %s, "
+"moet u de metasleutel opgeven als: %s"
+
+#: vendor/woosa/synchronization/templates/setting-fields.php:36
+msgid "Collapse"
+msgstr "Inklappen"
+
+#: vendor/woosa/synchronization/templates/setting-fields.php:40
+msgid "Minimize"
+msgstr "Minimaliseer"
+
+#: vendor/woosa/tools/class-module-tools-hook-ajax.php:72
+msgid "The tool has been performed successfully."
+msgstr "De tool is met succes uitgevoerd."
+
+#: vendor/woosa/tools/class-module-tools-hook-settings.php:35
+msgid "Tools"
+msgstr "Tools"
+
+#: vendor/woosa/tools/class-module-tools-hook-settings.php:46
+#: vendor/woosa/tools/class-module-tools.php:48
+msgid "Clear cache"
+msgstr "Cache leegmaken"
+
+#: vendor/woosa/tools/class-module-tools.php:39
+msgid "Allow long-running requests"
+msgstr "Sta langlopende verzoeken toe"
+
+#: vendor/woosa/tools/class-module-tools.php:41
+#, php-format
+msgid ""
+"Enable this if the plugin is struggling to process the action list. This "
+"adds directives to the %s file to prevent the server from timing out long-"
+"running scripts. Specifically, it sets %s and %s environment variables, "
+"allowing plugin's processes to run without interruption."
+msgstr ""
+"Schakel dit in als de plugin moeite heeft met het verwerken van de "
+"actielijst. Dit voegt richtlijnen toe aan het %s-bestand om te voorkomen dat "
+"de server langlopende scripts time-out geeft. Het stelt met name de "
+"omgevingsvariabelen %s en %s in, waardoor de processen van de plugin zonder "
+"onderbreking kunnen worden uitgevoerd."
+
+#: vendor/woosa/tools/class-module-tools.php:42
+msgid ""
+"Before enabling, check with your hosting provider to ensure these directives "
+"are supported on your server!"
+msgstr ""
+"Controleer bij uw hostingprovider of deze richtlijnen door uw server worden "
+"ondersteund voordat u deze inschakelt!"
+
+#: vendor/woosa/tools/class-module-tools.php:49
+msgid "This tool will clear the entire cache of the plugin."
+msgstr "Deze tool wist de hele cache van de plugin."
+
+#: vendor/woosa/tools/templates/tools-ui.php:16
+msgid "Woosa IP list"
+msgstr "Woosa IP lijst"
+
+#: vendor/woosa/tools/templates/tools-ui.php:17
+msgid ""
+"In case your shop has some restrictions for inbound requests please "
+"whitelist our IPs:"
+msgstr ""
+"Als je winkel beperkingen heeft voor inkomende verzoeken, zet onze IP’s dan "
+"op een witte lijst:"
+
+#: vendor/woosa/tools/templates/tools-ui.php:24
+msgid "Click to run"
+msgstr "Klik om uit te voeren"
+
+#: vendor/woosa/tools/templates/tools-ui.php:38
+msgid "Warning:"
+msgstr "Waarschuwing:"
+
+#: vendor/woosa/util/class-util-status.php:93
+#: vendor/woosa/util/class-util.php:356
+msgid "Not published"
+msgstr "Niet gepubliceerd"
+
+#: vendor/woosa/util/class-util-status.php:98
+#: vendor/woosa/util/class-util.php:360
+msgid "Not available"
+msgstr "Niet beschikbaar"
+
+#: vendor/woosa/util/class-util-status.php:113
+#: vendor/woosa/util/class-util.php:373
+msgid "Open"
+msgstr "Open"
+
+#: vendor/woosa/util/class-util-status.php:118
+#: vendor/woosa/util/class-util.php:377
+msgid "Created"
+msgstr "Aangemaakt"
+
+#: vendor/woosa/util/class-util-status.php:123
+#: vendor/woosa/util/class-util.php:397
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: vendor/woosa/util/class-util-status.php:128
+#: vendor/woosa/util/class-util.php:381
+msgid "Processed"
+msgstr "Verwerkt"
+
+#: vendor/woosa/util/class-util-status.php:133
+msgid "Done"
+msgstr "Klaar"
+
+#: vendor/woosa/util/class-util-status.php:138
+#: vendor/woosa/util/class-util.php:385
+msgid "Registered"
+msgstr "Geregistreerd"
+
+#: vendor/woosa/util/class-util-status.php:143
+#: vendor/woosa/util/class-util.php:389
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: vendor/woosa/util/class-util-status.php:148
+#: vendor/woosa/util/class-util.php:393
+msgid "Paused"
+msgstr "Gepauzeerd"
+
+#: vendor/woosa/util/class-util-status.php:153
+msgid "Excluded"
+msgstr "Uitgesloten"
+
+#: vendor/woosa/util/class-util-status.php:158
+#: vendor/woosa/util/class-util.php:401
+msgid "Error"
+msgstr "Error"
+
+#: vendor/woosa/util/class-util.php:796
+msgid "processing..."
+msgstr "verwerken..."
+
+#: vendor/woosa/util/class-util.php:797
+msgid "saving..."
+msgstr "opslaan…"
+
+#: vendor/woosa/worker/class-module-worker-action.php:262
+msgid "queue..."
+msgstr "wachtrij…"
+
+#: vendor/woosa/worker/class-module-worker-action.php:266
+msgid "now..."
+msgstr "nu…"
+
+#: vendor/woosa/worker/class-module-worker-action.php:285
+#, php-format
+msgid "Every %s day"
+msgid_plural "Every %s days"
+msgstr[0] "Elke %s dag"
+msgstr[1] "Elke %s dagen"
+
+#: vendor/woosa/worker/class-module-worker-action.php:288
+#, php-format
+msgid "Every %s hour"
+msgid_plural "Every %s hours"
+msgstr[0] "Elk %s uur"
+msgstr[1] "Elke %s uur"
+
+#: vendor/woosa/worker/class-module-worker-action.php:290
+#, php-format
+msgid "Every %s minute"
+msgid_plural "Every %s minutes"
+msgstr[0] "Elke %s minuut"
+msgstr[1] "Elke %s minuten"
+
+#: vendor/woosa/worker/class-module-worker-hook-settings.php:35
+msgid "Action List"
+msgstr "Actie Lijst"
+
+#: vendor/woosa/worker/class-module-worker-hook-settings.php:46
+msgid "List of background actions"
+msgstr "Lijst van achtergrond acties"
+
+#: vendor/woosa/worker/templates/worker-ui.php:19
+#: vendor/woosa/worker/templates/worker-ui.php:84
+msgid "Status"
+msgstr "Status"
+
+#: vendor/woosa/worker/templates/worker-ui.php:21
+#: vendor/woosa/worker/templates/worker-ui.php:86
+msgid "Tasks"
+msgstr "Taken"
+
+#: vendor/woosa/worker/templates/worker-ui.php:22
+#: vendor/woosa/worker/templates/worker-ui.php:87
+msgid "Recurrence"
+msgstr "Herhaling"
+
+#: vendor/woosa/worker/templates/worker-ui.php:23
+#: vendor/woosa/worker/templates/worker-ui.php:88
+msgid "Next Run"
+msgstr "Volgende Uitvoering"
+
+#: vendor/woosa/worker/templates/worker-ui.php:31
+msgid "There are no actions yet."
+msgstr "Er zijn nog geen acties."
+
+#~ msgid ""
+#~ "The authorization failed. Please make sure you provided correct "
+#~ "credentials."
+#~ msgstr ""
+#~ "De autorisatie is mislukt. Controleer of je de juiste gegevens hebt "
+#~ "opgegeven."
+
+#~ msgid "The authorization couldn't be revoked."
+#~ msgstr "De autorisatie kon niet worden ingetrokken."
+
+#~ msgid "Filling instructions:"
+#~ msgstr "Vulinstructies:"
+
+#~ msgid "Product name"
+#~ msgstr "Productnaam"
+
+#~ msgid "Product shipping height"
+#~ msgstr "Hoogte van het product"
+
+#~ msgid "Product shipping length"
+#~ msgstr "Lengte van de productverzending"
+
+#~ msgid "Product shipping width"
+#~ msgstr "Breedte van productverzending"
+
+#~ msgid "Product shipping weight"
+#~ msgstr "Gewicht van het product"
+
+#~ msgid "Images"
+#~ msgstr "Afbeeldingen"
+
+#~ msgid "Primary"
+#~ msgstr "Primair"
+
+#~ msgid "No primary image found."
+#~ msgstr "Geen primaire afbeelding gevonden."
+
+#~ msgid "Additional"
+#~ msgstr "Aanvullend"
+
+#~ msgid "No additional images found."
+#~ msgstr "Geen aanvullende afbeeldingen gevonden."
+
+#~ msgid ""
+#~ "It appears you are using v2 of the plugin that requires manual migration. "
+#~ "Please visit the \"Tools\" page to run the migration process. Ensure that "
+#~ "you back up your entire shop before proceeding."
+#~ msgstr ""
+#~ "Het lijkt erop dat je v2 van de plugin gebruikt die een handmatige "
+#~ "migratie vereist. Ga naar de \"Tools\" pagina om het migratieproces uit "
+#~ "te voeren. Zorg ervoor dat je een back-up maakt van je hele shop voordat "
+#~ "je verder gaat."
+
+#~ msgid "Run v3 migration"
+#~ msgstr "Migratie v3 uitvoeren"
+
+#~ msgid "This tool wil update plugin settings, products and orders metadata."
+#~ msgstr ""
+#~ "Met deze tool worden de plugin-instellingen en de metagegevens van "
+#~ "producten en bestellingen bijgewerkt."
+
+#~ msgid "Please back up your shop before running this tool!"
+#~ msgstr ""
+#~ "Maak een back-up van je winkel voordat je dit hulpprogramma uitvoert!"
+
+#~ msgid "Account label"
+#~ msgstr "Account label"
+
+#~ msgid "Add a label for this account."
+#~ msgstr "Voeg een label toe voor dit account."
+
+#~ msgid "Client ID"
+#~ msgstr "Client ID"
+
+#~ msgid "Specify the client id from your Bol account."
+#~ msgstr "Geef de Client ID op van je Bol account."
+
+#~ msgid "Client secret"
+#~ msgstr "Client secret"
+
+#~ msgid "Specify the client secret from your Bol account."
+#~ msgstr "Geef de Client Secret van je Bol account op."
+
+#~ msgid ""
+#~ "Specify the shipping cost that will be added to the product price. If you "
+#~ "enable rules then this value will be used as fallback."
+#~ msgstr ""
+#~ "Geef de verzendkosten op die aan de productprijs worden toegevoegd. Als u "
+#~ "regels inschakelt, wordt deze waarde als fallback gebruikt."
+
+#~ msgid "Delivery time"
+#~ msgstr "Levertijd"
+
+#~ msgid "Specify the delivery time."
+#~ msgstr "Geef de levertijd op."
+
+#~ msgid "Economic operator"
+#~ msgstr "Economische operator"
+
+#~ msgid "Specify the economic operator."
+#~ msgstr "Geef de economische operator aan."
+
+#~ msgid "Fulfilment method"
+#~ msgstr "Fulfilment methode"
+
+#~ msgid "Choose which fulfilment method to be used as default."
+#~ msgstr "Kies welke fulfilmentmethode standaard moet worden gebruikt."
+
+#~ msgid "Retailer"
+#~ msgstr "Verkoper"
+
+#~ msgid "Bol.com"
+#~ msgstr "Bol.com"
+
+#~ msgid "Bundle price discounts"
+#~ msgstr "Korting op bundelprijzen"
+
+#~ msgid ""
+#~ "Enable this if you want to set custom price discounts for product bundles."
+#~ msgstr ""
+#~ "Schakel dit in als u aangepaste kortingen wilt instellen voor "
+#~ "productbundels."
+
+#~ msgid "Exclude account?"
+#~ msgstr "Account uitsluiten?"
+
+#~ msgid "Yes, exclude all actions for this account"
+#~ msgstr "Ja, sluit alle acties uit voor dit account"
+
+#~ msgid "Use a different price than the general settings"
+#~ msgstr "Gebruik een andere prijs dan de algemene instellingen"
+
+#~ msgid "Enable rules based on weight"
+#~ msgstr "Regels op basis van gewicht inschakelen"
+
+#~ msgid "Manage fulfilment method?"
+#~ msgstr "Fulfilment methode beheren?"
+
+#~ msgid "Use a different fulfilment method than the general settings"
+#~ msgstr "Gebruik een andere fulfillmentmethode dan de algemene instellingen"
+
+#~ msgid "Manage economic operator?"
+#~ msgstr "Economische operator beheren?"
+
+#~ msgid "Use a different economic operator than the general settings"
+#~ msgstr ""
+#~ "Gebruik een andere economische operator dan de algemene instellingen"
+
+#~ msgid "Manage bundle discounts?"
+#~ msgstr "Bundelkortingen beheren?"
+
+#~ msgid "Use different bundle discounts than the general settings"
+#~ msgstr "Gebruik andere bundelkortingen dan de algemene instellingen"
+
+#~ msgid "Use a different delivery time then the general settings"
+#~ msgstr "Gebruik een andere levertijd dan de algemene instellingen"
+
+#~ msgid ""
+#~ "The provided EAN code matches a product in the Bol catalog, but its "
+#~ "content is incomplete. To publish this offer, you must first upload the "
+#~ "missing product content."
+#~ msgstr ""
+#~ "De opgegeven EAN-code komt overeen met een product in de Bol-catalogus, "
+#~ "maar de inhoud ervan is onvolledig. Om deze aanbieding te publiceren, "
+#~ "moet u eerst de ontbrekende productinhoud uploaden."
+
+#~ msgid ""
+#~ "The provided EAN code does not match any product in the Bol catalog. To "
+#~ "publish this offer, you must first upload the product content."
+#~ msgstr ""
+#~ "De opgegeven EAN-code komt niet overeen met een product in de Bol-"
+#~ "catalogus. Om deze aanbieding te publiceren, moet u eerst de "
+#~ "productinhoud uploaden."
+
+#, php-format
+#~ msgid ""
+#~ "The upload product content failed. Please check the following fields to "
+#~ "have valid values: %s"
+#~ msgstr ""
+#~ "Het uploaden van productinhoud is mislukt. Controleer of de volgende "
+#~ "velden geldige waarden hebben: %s"
+
+#~ msgid "The provided EAN code is invalid. Please use a valid EAN code."
+#~ msgstr "De opgegeven EAN-code is ongeldig. Gebruik een geldige EAN-code."
+
+#~ msgid "Invalid order, try again."
+#~ msgstr "Ongeldige bestelling, probeer het opnieuw."
+
+#~ msgid ""
+#~ "You have to select a delivery option to be able to register the shipment!"
+#~ msgstr ""
+#~ "Je moet een leveringsoptie selecteren om de zending te kunnen registreren!"
+
+#~ msgid ""
+#~ "You have to select the transporter to be able to register the shipment!"
+#~ msgstr ""
+#~ "Je moet de transporteur selecteren om de zending te kunnen registreren!"
+
+#~ msgid "Track and trace code should only contain letters and digits!"
+#~ msgstr "Track en trace code mag alleen letters en cijfers bevatten!"
+
+#~ msgid "View shipping label"
+#~ msgstr "Toon verzendlabel"
+
+#, php-format
+#~ msgid "Reason: %s"
+#~ msgstr "Reden: %s"
+
+#~ msgid "Handled by bol.com"
+#~ msgstr "Verwerkt door bol.com"
+
+#~ msgid "Select a delivery option"
+#~ msgstr "Selecteer een leveringsoptie"
+
+#~ msgid ""
+#~ "There are no delivery options available from bol.com for the selected "
+#~ "order items. As a result you can only use your own or try again with a "
+#~ "different set of order items."
+#~ msgstr ""
+#~ "Er zijn geen bezorg opties van bol.com beschikbaar voor de geselecteerde "
+#~ "bestelitems. Als gevolg hiervan kun je alleen je eigen bestelling "
+#~ "gebruiken of het opnieuw proberen met een andere set bestelitems."
+
+#, php-format
+#~ msgid "Price: %s"
+#~ msgstr "Prijs: %s"
+
+#, php-format
+#~ msgid "Max. weight: %s"
+#~ msgstr "Max. gewicht: %s"
+
+#, php-format
+#~ msgid "Max. dimensions: %s"
+#~ msgstr "Max. dimensies: %s"
+
+#~ msgid "Track & Trace code (optional)"
+#~ msgstr "Track & Trace code (optioneel)"
+
+#~ msgid "Register shipment"
+#~ msgstr "Verzending registreren"
+
+#~ msgid "Cancellation request"
+#~ msgstr "Annuleringsverzoek"
+
+#~ msgid "The customer requested to cancel this item."
+#~ msgstr "De klant heeft gevraagd dit artikel te annuleren."
+
+#~ msgid "Check delivery options"
+#~ msgstr "Controleer verzendopties"
+
+#~ msgid "Bol: Register Shipment"
+#~ msgstr "Bol: Zending registreren"
+
+#~ msgid "The upload product content got the following errors:"
+#~ msgstr ""
+#~ "Bij het uploaden van productinhoud zijn de volgende fouten opgetreden:"
+
+#~ msgid "The offer has been created but might not be published due to:"
+#~ msgstr ""
+#~ "Het aanbod is gedaan, maar wordt mogelijk niet gepubliceerd vanwege:"
+
+#, php-format
+#~ msgid ""
+#~ "Visit %sthis page%s to find out what actions you need to take in order to "
+#~ "solve this. After that you can retry the bulk action Publish / Update."
+#~ msgstr ""
+#~ "Bezoek %sdezepagina%s om te zien welke acties je moet ondernemen om dit "
+#~ "op te lossen. Daarna kun je de bulkactie Publiceren / Bijwerken opnieuw "
+#~ "proberen."
+
+#~ msgid "Invalid product."
+#~ msgstr "Ongeldig product."
+
+#~ msgid ""
+#~ "None of this product categories are connected to a Bol category. Please "
+#~ "go to Category Mapping and connect the desired categories."
+#~ msgstr ""
+#~ "Geen van deze productcategorieën is gekoppeld aan een Bol-categorie. Ga "
+#~ "naar Category Mapping en koppel de gewenste categorieën."
+
+#~ msgid "Changes have been successfully saved!"
+#~ msgstr "Wijzigingen zijn succesvol opgeslagen!"
+
+#~ msgid "Manage product content"
+#~ msgstr "Productinhoud beheren"
+
+#~ msgid "Product Content"
+#~ msgstr "Productinhoud"
+
+#~ msgid "Upload product content"
+#~ msgstr "Productinhoud uploaden"
+
+#~ msgid "Enable this if you want to upload content for Bol products."
+#~ msgstr "Schakel dit in als u content voor Bol-producten wilt uploaden."
+
+#~ msgid "Content language"
+#~ msgstr "Inhoud taal"
+
+#~ msgid ""
+#~ "You can change the language after the selected one is fully processed."
+#~ msgstr ""
+#~ "U kunt de taal wijzigen nadat de geselecteerde taal volledig is verwerkt."
+
+#~ msgid "Choose the language for the product content upload."
+#~ msgstr "Kies de taal voor het uploaden van productinhoud."
+
+#~ msgid "Dutch"
+#~ msgstr "Nederlands"
+
+#~ msgid "French"
+#~ msgstr "Frans"
+
+#~ msgid "Retrieve product classification"
+#~ msgstr "Productclassificatie ophalen"
+
+#~ msgid ""
+#~ "Choose how often the datamodel file with product classifications should "
+#~ "be retrieved from Bol."
+#~ msgstr ""
+#~ "Kies hoe vaak het datamodelbestand met productclassificaties uit Bol moet "
+#~ "worden opgehaald."
+
+#~ msgid "Weekly"
+#~ msgstr "Wekelijks"
+
+#~ msgid "Monthly"
+#~ msgstr "Maandelijks"
+
+#~ msgid "Processing Product Classifications"
+#~ msgstr "Verwerkingsproductclassificaties"
+
+#~ msgid ""
+#~ "The product classifications are being processed, which may take some "
+#~ "time. Please be patient. Once completed, you will be able to connect Bol "
+#~ "categories with your shop's categories and configure their fields."
+#~ msgstr ""
+#~ "De productclassificaties worden verwerkt, wat enige tijd kan duren. Wees "
+#~ "geduldig. Zodra dit is voltooid, kunt u Bol-categorieën verbinden met de "
+#~ "categorieën van uw winkel en hun velden configureren."
+
+#~ msgid "Bol: Upload Content"
+#~ msgstr "Bol: Inhoud uploaden"
+
+#~ msgid "Mandatory fields"
+#~ msgstr "Verplichte velden"
+
+#~ msgid "Save content"
+#~ msgstr "Inhoud opslaan"
+
+#~ msgid "Manage reference?"
+#~ msgstr "Referentie beheren?"
+
+#~ msgid "Use a different internal reference than the general settings."
+#~ msgstr "Gebruik een andere interne referentie dan de algemene instellingen."
+
+#~ msgid "Internal reference"
+#~ msgstr "Interne referentie"
+
+#~ msgid "The internal reference for this product."
+#~ msgstr "De interne referentie voor dit product."
+
+#~ msgid "The condition of this product."
+#~ msgstr "De conditie van dit product."
+
+#~ msgid "Retrieve the offer"
+#~ msgstr "Het aanbod ophalen"
+
+#~ msgid "Update the offer"
+#~ msgstr "Het aanbod bijwerken"
+
+#~ msgid "Update the offer price"
+#~ msgstr "Het aanbodprijs bijwerken"
+
+#~ msgid "Update the offer stock"
+#~ msgstr "Update de aanbod voorraad"
+
+#~ msgid "Delete the offer"
+#~ msgstr "Verwijder het aanbod"
+
+#~ msgid ""
+#~ "The language parameter is required for uploading the product content."
+#~ msgstr "De taalparameter is vereist voor het uploaden van de productinhoud."
+
+#~ msgid ""
+#~ "The attributes parameter is required for uploading the product content."
+#~ msgstr ""
+#~ "De parameter attributen is vereist voor het uploaden van de productinhoud."
+
+#~ msgid ""
+#~ "The offer could not be created because there is no product found in bol."
+#~ "com catalog. You have to upload the product content first."
+#~ msgstr ""
+#~ "Het aanbod kon niet worden gemaakt omdat er geen product is gevonden in "
+#~ "de bol.com catalogus. Je moet eerst de productinhoud uploaden."
+
+#~ msgid "The EAN is required and cannot be empty."
+#~ msgstr "De EAN is verplicht en mag niet leeg zijn."
+
+#~ msgid ""
+#~ "The economic operator is required and cannot be empty. Please check "
+#~ "account settings."
+#~ msgstr ""
+#~ "De economische operator is vereist en kan niet leeg zijn. Controleer de "
+#~ "accountinstellingen."
+
+#~ msgid "The reference is required and cannot be empty."
+#~ msgstr "De referentie is verplicht en kan niet leeg zijn."
+
+#, php-format
+#~ msgid ""
+#~ "The condition is required and must be one of the following values: %s."
+#~ msgstr ""
+#~ "De conditie is vereist en moet een van de volgende waarden zijn: %s."
+
+#~ msgid ""
+#~ "The stock amount is required. When the offer is created it must be "
+#~ "between 1-999 and when the offer is updated can be 0-999."
+#~ msgstr ""
+#~ "Het voorraadbedrag is vereist. Wanneer het aanbod wordt gemaakt moet het "
+#~ "tussen 1-999 zijn en wanneer het aanbod wordt bijgewerkt kan het 0-999 "
+#~ "zijn."
+
+#, php-format
+#~ msgid ""
+#~ "The fulfilment method is required and must be one of the following "
+#~ "values: %s."
+#~ msgstr ""
+#~ "De verzendmethode is verplicht en moet een van de volgende waarden zijn: "
+#~ "%s."
+
+#, php-format
+#~ msgid ""
+#~ "%s failed because no offer found. Make sure this offer is published first."
+#~ msgstr ""
+#~ "%s is mislukt omdat er geen aanbod is gevonden. Zorg ervoor dat dit "
+#~ "aanbod eerst wordt gepubliceerd."
+
+#, php-format
+#~ msgid "Ordered before %s on working days, delivered the next working day."
+#~ msgstr "Voor %s besteld op werkdagen, de volgende werkdag geleverd."
+
+#~ msgid "New"
+#~ msgstr "Nieuw"
+
+#~ msgid "As new"
+#~ msgstr "Zo goed als nieuw"
+
+#~ msgid "Good"
+#~ msgstr "Goed"
+
+#~ msgid "Reasonable"
+#~ msgstr "Redelijk"
+
+#~ msgid "Moderate"
+#~ msgstr "Matig"
+
+#~ msgid "Out of stock"
+#~ msgstr "Niet op voorraad"
+
+#~ msgid "Requested by customer"
+#~ msgstr "Aangevraagd door de klant"
+
+#~ msgid "Bad condition"
+#~ msgstr "Slechte conditie"
+
+#~ msgid "Higher ship cost"
+#~ msgstr "Hogere verzendkosten"
+
+#~ msgid "Incorrect price"
+#~ msgstr "Incorrecte prijs"
+
+#~ msgid "Not available in time"
+#~ msgstr "Niet op tijd beschikbaar"
+
+#~ msgid "No BOL guarantee"
+#~ msgstr "Geen BOL garantie"
+
+#~ msgid "Ordered twice"
+#~ msgstr "Twee keer besteld"
+
+#~ msgid "Retain item"
+#~ msgstr "Item behouden"
+
+#~ msgid "Technical issue"
+#~ msgstr "Technisch probleem"
+
+#~ msgid "Unfindable item"
+#~ msgstr "Onvindbaar item"
+
+#~ msgid "Other"
+#~ msgstr "Andere"
+
+#~ msgid "Include FBB orders"
+#~ msgstr "FBB bestellingen opnemen"
+
+#~ msgid "Enable this if you want to include FBB orders in the order import."
+#~ msgstr "Schakel dit in als u FBB-orders wilt opnemen in de orderimport."
+
+#~ msgid "Register order shipment"
+#~ msgstr "Bestelbevestiging verzending"
+
+#~ msgid ""
+#~ "Choose how the shipment will be registered in Bol for imported orders. "
+#~ "Note: For shipping carriers such as \"Briefpost\" and \"PostNL Briefpost,"
+#~ "\" the shipment will be registered automatically when the order reaches "
+#~ "the selected status (Processing or Completed). For all other shipping "
+#~ "carriers, the shipment will be registered only when the order receives "
+#~ "the tracking code in the specified meta key source."
+#~ msgstr ""
+#~ "Kies hoe de verzending wordt geregistreerd in Bol voor geïmporteerde "
+#~ "orders. Let op: Voor vervoerders zoals \"Briefpost\" en \"PostNL "
+#~ "Briefpost\" wordt de verzending automatisch geregistreerd wanneer de "
+#~ "order de geselecteerde status bereikt (Verwerken of Voltooid). Voor alle "
+#~ "andere vervoerders wordt de verzending pas geregistreerd wanneer de order "
+#~ "de trackingcode ontvangt in de opgegeven meta-sleutelbron."
+
+#~ msgid ""
+#~ "Automatically when order status is processing or when receives the "
+#~ "tracking code"
+#~ msgstr ""
+#~ "Automatisch wanneer de orderstatus wordt verwerkt of wanneer de "
+#~ "trackingcode wordt ontvangen"
+
+#~ msgid ""
+#~ "Automatically when order status is completed or when receives the "
+#~ "tracking code"
+#~ msgstr ""
+#~ "Automatisch wanneer de orderstatus is voltooid of wanneer de trackingcode "
+#~ "is ontvangen"
+
+#~ msgid "Disable this, I will do it manually"
+#~ msgstr "Schakel dit uit, ik zal het handmatig doen"
+
+#~ msgid "Please provide a license key!"
+#~ msgstr "Geef een licentiesleutel op!"
+
+#~ msgid "This license could have not been activated."
+#~ msgstr "Deze licentie kon niet geactiveerd worden."
+
+#, php-format
+#~ msgid "A new update is available, please go to %sPlugins page%s and check."
+#~ msgstr ""
+#~ "Er is een nieuwe update beschikbaar, ga naar %sPlugins pagina%s en "
+#~ "controleer het."
+
+#~ msgid "No updates available, the plugin is already up to date."
+#~ msgstr "Geen updates beschikbaar, de plugin is al up-to-date."
+
+#~ msgid "Invalid action provided."
+#~ msgstr "Ongeldige actie opgegeven."
+
+#~ msgid "My Account"
+#~ msgstr "Mijn Account"
+
+#~ msgid "License key"
+#~ msgstr "Licentiesleutel"
+
+#, php-format
+#~ msgid ""
+#~ "Fill in your Woosa license key below, to be able to receive plugin "
+#~ "updates, product updates and order updates.\n"
+#~ "                  Do you need more licenses? You can easily %srequest an "
+#~ "upgrade of your subscription%s."
+#~ msgstr ""
+#~ "Vul hieronder je Woosa-licentiesleutel in om plugin-updates, "
+#~ "productupdates en orderupdates te ontvangen.\n"
+#~ "                  Heb je meer licenties nodig? Je kunt eenvoudig %seen "
+#~ "upgrade van je abonnement aanvragen%s."
+
+#~ msgid "Could not create Temporary file."
+#~ msgstr "Kon tijdelijk bestand niet maken."
+
+#~ msgid "Active"
+#~ msgstr "Actief"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactief"
+
+#~ msgid "Activations "
+#~ msgstr "Activeringen "
+
+#~ msgid "License Key"
+#~ msgstr "Licentiesleutel"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deactiveer"
+
+#~ msgid "Check for update"
+#~ msgstr "Controleer voor updates"
+
+#~ msgid "Activate"
+#~ msgstr "Activeer"
+
+#, php-format
+#~ msgid "Your license for \"%s\" is not active."
+#~ msgstr "Uw licentie voor “%s” is niet actief."
+
+#, php-format
+#~ msgid ""
+#~ "This means you will not receive automatic plugin updates or support from "
+#~ "our Support Specialists.\n"
+#~ "      Please activate your Woosa license %shere%s or %sread where to find "
+#~ "the license%s."
+#~ msgstr ""
+#~ "Dit betekent dat je geen automatische plugin updates of ondersteuning van "
+#~ "onze Support Specialisten zult ontvangen.\n"
+#~ "Activeer je Woosa-licentie %shier%s of %slees waar je de licentie kunt "
+#~ "vinden%s."
+
+#~ msgid "You have reached the maximum limit of 5 accounts."
+#~ msgstr "Je hebt de maximale limiet van 5 accounts bereikt."
+
+#~ msgid "An error has occurred and the account could not be created!"
+#~ msgstr ""
+#~ "Er is een fout opgetreden en het account kon niet worden aangemaakt!"
+
+#~ msgid "Are you sure you want to remove this account?"
+#~ msgstr "Weet je zeker dat je deze account wilt verwijderen?"
+
+#~ msgid "Some errors have occurred on this account."
+#~ msgstr "Er zijn enkele fouten opgetreden op deze account."
+
+#~ msgid "This product is published on this account."
+#~ msgstr "Het product is gepubliceerd op dit account."
+
+#~ msgid "This product is paused on this account."
+#~ msgstr "Het product is op dit account gepauzeerd."
+
+#~ msgid "Account: "
+#~ msgstr "Account: "
+
+#, php-format
+#~ msgid "Specify the client id from your %s account."
+#~ msgstr "Geef de client-ID op van uw %s-account."
+
+#, php-format
+#~ msgid "Specify the client secret from your %s account."
+#~ msgstr "Geef het clientgeheim van uw %s-account op."
+
+#~ msgid "Remove account"
+#~ msgstr "Verwijder account"
+
+#~ msgid "Add account"
+#~ msgstr "Account toevoegen"
+
+#~ msgid ""
+#~ "The remote file cannot be accessed, please try again or contact us if "
+#~ "this problem still persists. Status: "
+#~ msgstr ""
+#~ "Het bestand op afstand kan niet worden geopend. Probeer het opnieuw of "
+#~ "neem contact met ons op als dit probleem zich nog steeds voordoet. "
+#~ "Status: "
+
+#~ msgid "Unable to open file for writing at the following location: "
+#~ msgstr "Kan bestand niet openen om te schrijven op de volgende locatie: "
+
+#, php-format
+#~ msgid ""
+#~ "File download process failed because the process takes longer than the "
+#~ "server allows, please increase the PHP <code>max_execution_time</code> "
+#~ "then try again, %sclick here%s for more details."
+#~ msgstr ""
+#~ "Het downloaden van bestanden is mislukt omdat het proces langer duurt dan "
+#~ "de server toestaat, verhoog de PHP <code>max_execution_time</code> en "
+#~ "probeer het opnieuw, %sklik hier%s voor meer details."
+
+#~ msgid ""
+#~ "An error occurred when download a remote file. For details check the log "
+#~ "files."
+#~ msgstr ""
+#~ "Er is een fout opgetreden bij het downloaden van een extern bestand. Voor "
+#~ "details, controleer de logbestanden."
+
+#~ msgid "Optional fields"
+#~ msgstr "Optionele velden"
+
+#, php-format
+#~ msgid "You have to authorize the plugin. Please go to %sthis page%s."
+#~ msgstr "Je moet de plugin autoriseren. Ga naar %sdeze pagina%s."
+
+#~ msgid "Required"
+#~ msgstr "Vereist"
+
+#, php-format
+#~ msgid ""
+#~ "Your server %s should be at least %s seconds! Please get in touch with "
+#~ "your hosting provider to increase that otherwise the plugin might not "
+#~ "work properly."
+#~ msgstr ""
+#~ "Je server %s moet minstens %s seconden zijn! Neem contact op met je "
+#~ "hostingprovider om dit te verhogen, anders werkt de plugin misschien niet "
+#~ "goed."
+
+#, php-format
+#~ msgid "%sGo back.%s"
+#~ msgstr "%sGa terug.%s"
+
+#, php-format
+#~ msgid "The server must have at least %s installed."
+#~ msgstr "Op de server moet minstens %s geïnstalleerd zijn."
+
+#, php-format
+#~ msgid "This plugin requires %s extension to be installed on the server."
+#~ msgstr "Deze plugin vereist dat %s extensie is geïnstalleerd op de server."
+
+#, php-format
+#~ msgid "This plugin requires at least %s!"
+#~ msgstr "Deze plugin vereist minstens %s!"
+
+#, php-format
+#~ msgid "This plugin requires at least %s to be installed and active."
+#~ msgstr "Voor deze plugin moet minstens %s geïnstalleerd en actief zijn."
+
+#~ msgid "Bol"
+#~ msgstr "Bol"
+
+#, php-format
+#~ msgid "Bol: in-progress <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Bol: in-progress <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Bol: in uitvoering <span class=“count”>(%s)</span>"
+#~ msgstr[1] "Bol: in uitvoering <span class=“count”>(%s)</span>"
+
+#~ msgid "Woosa"
+#~ msgstr "Woosa"
+
+#~ msgid "Global Unique ID"
+#~ msgstr "Wereldwijde unieke ID"
+
+#~ msgid "Upload new products"
+#~ msgstr "Nieuwe producten uploaden"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijder"
+
+#~ msgid "Configure"
+#~ msgstr "Configureer"
+
+#~ msgid ""
+#~ "Specify whether the shipment should be fulfilled by the retailer or bol."
+#~ "com."
+#~ msgstr ""
+#~ "Geef aan of de verzending moet worden uitgevoerd door de verkoper of door "
+#~ "bol.com."
+
+#~ msgid "Automatic price update"
+#~ msgstr "Automatische prijs update"
+
+#~ msgid ""
+#~ "Enable this if you want to automatically update product price. NOTE: This "
+#~ "works only when \"Synchronize products\" is enabled!"
+#~ msgstr ""
+#~ "Schakel dit in als je de productprijs automatisch wilt bijwerken. "
+#~ "OPMERKING: Dit werkt alleen als “Producten synchroniseren” is "
+#~ "ingeschakeld!"
+
+#~ msgid ""
+#~ "Choose which shipping carrier to be used as default. NOTE: This works "
+#~ "only when \"Use my shipping carrier\" is enabled."
+#~ msgstr ""
+#~ "Kies welke verzendmaatschappij standaard moet worden gebruikt. OPMERKING: "
+#~ "Dit werkt alleen als “Gebruik mijn verzendmaatschappij” is ingeschakeld."
+
+#~ msgid ""
+#~ "Define the order meta key where the tracking code is added by your 3rd-"
+#~ "party shipping plugin. NOTE: This works only when \"Use my shipping "
+#~ "carrier\" is enabled."
+#~ msgstr ""
+#~ "Definieer de metasleutel van de bestelling waar de trackingcode wordt "
+#~ "toegevoegd door je verzendplugin van derden. OPMERKING: Dit werkt alleen "
+#~ "als “Gebruik mijn verzendmaatschappij” is ingeschakeld."
+
+#, php-format
+#~ msgid "set to at least %s seconds"
+#~ msgstr "ingesteld op minimaal %s seconden"
+
+#, php-format
+#~ msgid "set to at least %s"
+#~ msgstr "ingesteld op ten minste %s"
+
+#~ msgid ""
+#~ "Define whether or not to use the default WooCommerce price when products "
+#~ "are pushed."
+#~ msgstr ""
+#~ "Definieer of de standaardprijs van WooCommerce wel of niet moet worden "
+#~ "gebruikt wanneer producten worden gepusht."
+
+#~ msgid "Please select the cancellation reason!"
+#~ msgstr "Selecteer de annuleringsreden!"
+
+#~ msgid ""
+#~ "Are you sure you want to cancel the selected order items? Once applied, "
+#~ "this cannot be undone!"
+#~ msgstr ""
+#~ "Weet je zeker dat je de geselecteerde bestelitems wilt annuleren? Eenmaal "
+#~ "toegepast kan dit niet ongedaan worden gemaakt!"
+
+#~ msgid ""
+#~ "Are you sure you want to register a shipment for the selected order "
+#~ "items? Once applied, this cannot be undone!"
+#~ msgstr ""
+#~ "Weet je zeker dat je een verzending wilt registreren voor de "
+#~ "geselecteerde bestel items? Eenmaal toegepast kan dit niet ongedaan "
+#~ "worden gemaakt!"
+
+#~ msgid ""
+#~ "Here you can either register a shipment or cancel the order items. The "
+#~ "selected action will be sent to bol.com automatically. Once bol.com "
+#~ "processes the action, the status of the items will be updated "
+#~ "accordingly. Based on this status, the WooCommerce order will become "
+#~ "either completed (if there is at least one item shipped and the rest of "
+#~ "them are cancelled) or cancelled (if all items are cancelled)."
+#~ msgstr ""
+#~ "Hier kun je een zending registreren of de bestel items annuleren. De "
+#~ "geselecteerde actie wordt automatisch naar bol.com verzonden. Zodra bol."
+#~ "com de actie verwerkt, wordt de status van de items overeenkomstig "
+#~ "bijgewerkt. Op basis van deze status wordt de WooCommerce bestelling "
+#~ "voltooid (als er ten minste één item is verzonden en de rest is "
+#~ "geannuleerd) of geannuleerd (als alle items zijn geannuleerd)."
+
+#, php-format
+#~ msgid "%s: cancelled items"
+#~ msgstr "%s: geannuleerde items"
+
+#~ msgid "Shop Status"
+#~ msgstr "Shop Status"
+
+#~ msgid "Bol Status"
+#~ msgstr "Bol Status"
+
+#~ msgid "Shipping Carrier"
+#~ msgstr "Verzendmaatschappij"
+
+#~ msgid "Tracking number"
+#~ msgstr "Traceer nummer"
+
+#~ msgid "Refund Reason"
+#~ msgstr "Reden Terugbetaling"
+
+#~ msgid "Refund Amount"
+#~ msgstr "Restitutiebedrag"
+
+#~ msgid "Cancel Reason"
+#~ msgstr "Annuleer Reden"
+
+#~ msgid "Return Action"
+#~ msgstr "Retour Actie"
+
+#~ msgid "Submit"
+#~ msgstr "Bevestig"
+
+#~ msgid "Ship Items"
+#~ msgstr "Items verzenden"
+
+#~ msgid "Refund Items"
+#~ msgstr "Restitutie Artikelen"
+
+#~ msgid "Cancel Items"
+#~ msgstr "Annuleer Items"
+
+#~ msgid "Return Items"
+#~ msgstr "Retour Items"
+
+#, php-format
+#~ msgid ""
+#~ "Please make sure you specified the refund reason and amount for the item: "
+#~ "%s!"
+#~ msgstr ""
+#~ "Zorg ervoor dat je de reden van terugbetaling en het bedrag voor het "
+#~ "artikel hebt opgegeven: %s!"
+
+#, php-format
+#~ msgid ""
+#~ "The refund amount must be greater than 0 but less or equal with the total "
+#~ "of the item: %s!"
+#~ msgstr ""
+#~ "Het restitutiebedrag moet groter zijn dan 0 maar kleiner of gelijk aan "
+#~ "het totaal van het artikel: %s!"
+
+#, php-format
+#~ msgid "Deleted %1$s and adjusted stock (%2$s)"
+#~ msgstr "Verwijderd %1$s en aangepaste voorraad (%2$s)"
+
+#~ msgid ""
+#~ "Define whether or not to use the default WooCommerce price when products "
+#~ "are pushed to Bol"
+#~ msgstr ""
+#~ "Definieer of de standaardprijs van WooCommerce wel of niet moet worden "
+#~ "gebruikt wanneer producten naar Bol worden gepusht"

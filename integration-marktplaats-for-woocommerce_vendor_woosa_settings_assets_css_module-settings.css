@@ -1,0 +1,431 @@
+/*
+|--------------------------------------------------------------------------
+| SIDEBAR
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .sidebar {
+   padding-right: 0;
+}
+
+.mkt-style .sidebar-top {
+   padding: 0 0 35px 0;
+}
+
+.mkt-style .sidebar-logo{
+   width: 220px;
+   height: 40px;
+   background-size: contain;
+   background-repeat: no-repeat;
+   position: relative;
+}
+
+.mkt-style .sidebar-logo .plugin-meta{
+   position: absolute;
+   bottom: -18px;
+   right: 0;
+   font-size: 12px;
+}
+
+.mkt-style .menu-item-wrap a {
+   box-shadow: none;
+   outline: none;
+   text-decoration: none;
+   display: block;
+}
+.mkt-style .menu-item {
+   border-left: transparent solid 5px;
+   position: relative;
+   padding: 20px 10px 20px 50px;
+   border-bottom: #e0e4e9 solid 1px;
+}
+.mkt-style .menu-item-wrap:last-child .menu-item{
+   border-bottom: 0;
+}
+
+.mkt-style .menu-item:hover,
+.mkt-style .menu-item.active {
+   background-color: #fff;
+}
+
+.mkt-style .menu-item-icon {
+   top: 50%;
+   left: 10px;
+   position: absolute;
+   height: 32px;
+   width: 32px;
+   margin-top: -16px;
+}
+
+.mkt-style .menu-item-icon svg {
+   width: 18px;
+   height: 18px;
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.mkt-style .menu-item-icon:before {
+   content: '';
+   display:block;
+   background-color: rgba(104, 189, 109, 0.2);
+   width: 35px;
+   height: 35px;
+   border-radius: 50%;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.mkt-style .menu-item:after {
+   content: '';
+   display: block;
+   clear: both;
+}
+
+.mkt-style .menu-item-name {
+   font-weight: 900;
+   font-size: 12px;
+   line-height: 15px;
+}
+
+.mkt-style .menu-item-description {
+   font-weight: 400;
+   font-size: 10px;
+   line-height: 15px;
+   color: #6C747B99;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| CONTENT
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style a:hover,
+.mkt-style a:active,
+.mkt-style a:focus{
+   box-shadow: none;
+}
+
+.mkt-style .container {
+   margin-left: 0;
+   margin-right: 0;
+}
+
+.mkt-style .content {
+   background: #FFF;
+}
+
+.mkt-style .content-header {
+   position: relative;
+   line-height: 20px;
+   margin: 25px 22px;
+   padding-bottom: 20px;
+   border-bottom: 1px solid #f0f2f4;
+}
+
+   .mkt-style .content-header:after {
+      content: '';
+      clear: both;
+   }
+
+   .mkt-style .content-header-icon {
+      width: 35px;
+      height: 35px;
+      position: absolute;
+      left: 0;
+      top: -7px;
+      background-color: rgba(104, 189, 109, 0.2);
+      border-radius: 100px;
+   }
+
+   .mkt-style .content-header-icon svg {
+      width: 18px;
+      height: 18px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+   }
+
+   .mkt-style .content-header-name {
+      margin-left: 47px;
+      font-size: 20px;
+      font-weight: 700;
+      color: #1d2327;
+   }
+
+
+.mkt-style .content-body {
+   margin: 25px 22px;
+}
+
+   .mkt-style .content-body h3{
+      margin-top: 0;
+      font-size: 16px;
+   }
+
+   .mkt-style .content-body h2 {
+      margin-top: 0;
+      padding-bottom: 10px;
+      font-size: 18px;
+      line-height: 1.3em;
+      border-bottom: 1px solid #f0f2f4;
+   }
+
+   .mkt-style .content-body .page-section{
+      margin-bottom: 25px;
+   }
+
+   .mkt-style .content-body .page-content .page-section-content > table > tbody > tr > td{
+      padding-left: 0;
+      padding-right: 0;
+   }
+
+
+.mkt-style p{
+   font-size: 14px;
+}
+
+
+/*
+|--------------------------------------------------------------------------
+| COLLAPSIBLE
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .collapsible-wrap{
+   margin-bottom: 20px;
+}
+
+.mkt-style .collapsible-header {
+   color: #FFF;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   border-radius: 4px;
+   padding: 10px 17px;
+   box-sizing: border-box;
+   overflow: hidden;
+   cursor: pointer;
+   height: 40px;
+   margin: 0;
+}
+
+.mkt-style .active .collapsible-header{
+   border-bottom-left-radius: 0;
+   border-bottom-right-radius: 0;
+}
+
+.mkt-style .wch-minimize {
+   display: none;
+}
+
+.mkt-style .collapsible-header-handle {
+   float: right;
+}
+
+.mkt-style .collapsible-header-title {
+   float: left;
+}
+
+.mkt-style .wch-collapse {
+   color: #FFF;
+   font-size: 10px;
+   font-weight: 700;
+   line-height: 20px;
+}
+
+.mkt-style .wch-minimize {
+   font-size: 10px;
+   line-height: 15px;
+}
+
+.mkt-style .collapsible-header-handle svg {
+   width: 15px;
+   vertical-align: sub;
+}
+
+.mkt-style .collapsible-header-handle .wch-minimize svg {
+   vertical-align: sub;
+}
+
+/**
+   woosa-collapsible show
+ */
+.mkt-style .woosa-collapsible-wrap.collapse .form-table {
+   display: table;
+}
+
+.mkt-style .woosa-collapsible-wrap.collapse .wch-collapse {
+   display: none;
+}
+
+.mkt-style .woosa-collapsible-wrap.collapse .wch-minimize {
+   display: block;
+}
+/**
+   woosa-collapsible hide
+ */
+.mkt-style .woosa-collapsible-wrap.minimize .form-table {
+   display: none;
+}
+
+.mkt-style .woosa-collapsible-wrap.minimize .wch-collapse {
+   display: block;
+}
+
+.mkt-style .woosa-collapsible-wrap.minimize .wch-minimize {
+   display: none;
+}
+
+.mkt-style .page-content input[type=text],
+.mkt-style .page-content input[type=number],
+.mkt-style .page-content input[type=password],
+.mkt-style .page-content input[type=url],
+.mkt-style .page-content textarea,
+.mkt-style .page-content select{
+   border-radius: 4px;
+   border: 1px solid #d2d2d2;
+   color: #7c7c7c;
+}
+
+.mkt-style .page-content input[type=text]:disabled,
+.mkt-style .page-content input[type=number]:disabled,
+.mkt-style .page-content input[type=password]:disabled,
+.mkt-style .page-content input[type=url]:disabled,
+.mkt-style .page-content textarea:disabled,
+.mkt-style .page-content select:disabled{
+   border-color: #dcdcdebf;
+   color: rgba(44, 51, 56, 0.3);
+   background: rgba(255, 255, 255, 0.1);
+}
+
+.mkt-style .collapsible-content{
+   border: 1px solid #E8EBEE;
+   background: #F9FAFB;
+   border-bottom-left-radius: 4px;
+   border-bottom-right-radius: 4px;
+   padding: 0 15px;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| BUTTONS
+|--------------------------------------------------------------------------
+*/
+.mkt-style .button {
+   background: #f6f7f7;
+   color: #fff;
+   vertical-align: top;
+}
+   .mkt-style .button:active,
+   .mkt-style .button:focus,
+   .mkt-style .button:hover {
+      background: #fff;
+      color: #fff;
+      outline: none;
+      box-shadow: none;
+   }
+
+.mkt-style .button-primary {
+   border-radius: 4px;
+   color: #fff !important;
+}
+
+.mkt-style .button-link,
+.mkt-style .button-link:active,
+.mkt-style .button-link:focus,
+.mkt-style .button-link:hover {
+   background: none !important;
+   border-color: transparent !important;
+   box-shadow: none !important;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| MISC
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style table .titledesc {
+   font-weight: 700;
+}
+
+.mkt-style .icon-medium svg {
+   width: 20px;
+   vertical-align: text-top;
+}
+
+.mkt-style .bg-white-extended {
+   border-radius: 4px;
+   border: 1px solid #E8EBEE;
+   background: #F9FAFB;
+   box-sizing: border-box;
+   padding: 27px 17px;
+}
+
+.mkt-style .sync-description {
+   color: #6C747B;
+   font-size: 10px;
+   font-weight: 400;
+   line-height: 20px;
+   padding-top: 15px;
+   border-top: #E8EBEE solid 1px;
+   margin-top: 18px;
+}
+
+
+/*
+|--------------------------------------------------------------------------
+| MEDIA
+|--------------------------------------------------------------------------
+*/
+
+@media (min-width:768px){
+   .mkt-style .mobile-menu{
+      display: none;
+   }
+
+   .mkt-style .sidebar-menu{
+      display: block !important;
+   }
+}
+
+@media (max-width:767px){
+
+   #wpcontent,
+   .mkt-style .sidebar{
+      padding: 0 !important;
+   }
+   .mkt-style .sidebar-menu,
+   .mkt-style .sidebar-logo{
+      display: none;
+   }
+
+   .mkt-style .mobile-menu{
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+   }
+
+   .mkt-style .dashicons{
+      font-size: 28px;
+      width: 28px;
+      height: 28px;
+   }
+   .mkt-style .menu-text{
+      font-size: 20px;
+   }
+}

@@ -1,0 +1,8 @@
+{
+   "name": "woosa/support-chat",
+   "version": "1.2.0",
+   "type": "library",
+   "require": {
+		"woosa/settings": "2.*"
+   }
+}

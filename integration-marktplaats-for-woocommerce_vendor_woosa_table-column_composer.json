@@ -1,0 +1,8 @@
+{
+   "name": "woosa/table-column",
+   "version": "2.1.0",
+   "type": "library",
+   "require": {
+      "woosa/util": "1.*"
+   }
+}

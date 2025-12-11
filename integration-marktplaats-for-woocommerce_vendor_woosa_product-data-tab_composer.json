@@ -1,0 +1,8 @@
+{
+   "name": "woosa/product-data-tab",
+   "version": "1.3.1",
+   "type": "library",
+   "require": {
+      "woosa/meta": "2.*"
+   }
+}

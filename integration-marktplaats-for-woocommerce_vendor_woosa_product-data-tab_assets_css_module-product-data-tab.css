@@ -1,0 +1,60 @@
+#woocommerce-product-data ul.wc-tabs li.mkt_variable_options.mkt_variable_tab a:before,
+#woocommerce-product-data ul.wc-tabs li.mkt_simple_options.mkt_simple_tab a:before{
+   display: inline-block;
+   width: 15px;
+   height: 15px;
+}
+
+
+/* ============= VARIATION ===========================*/
+
+.mkt-variation__name{
+   padding: 1em 1em 1em 30px;
+   cursor: pointer;
+   border-top: 1px solid #eee;
+   border-bottom: 1px solid #eee;
+   background: #fafafa;
+   font-weight: bold;
+   position: relative;
+}
+
+   .mkt-variation__name > span{
+      display: block;
+      font-weight: normal;
+   }
+   .mkt-variation__name::before{
+      content: "\f139";
+      font-family: 'dashicons';
+      position: absolute;
+      left: 10px;
+      top: 15px;
+   }
+   .mkt-variation__name.active::before{
+      content: "\f140";
+   }
+
+.mkt-variation__content{
+   display: none;
+}
+
+.reset_label_woo_css{
+   float: none !important;
+   margin: 0 !important;
+}
+
+
+.mkt-toolbar{
+   padding: 15px;
+}
+
+   .mkt-variations-nav{
+      float: right;
+   }
+
+   .mkt-variations-nav span{
+         line-height: 24px;
+      }
+
+
+
+/* ============= MISC ===========================*/

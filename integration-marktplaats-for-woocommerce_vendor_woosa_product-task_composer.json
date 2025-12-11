@@ -1,0 +1,10 @@
+{
+   "name": "woosa/product-task",
+   "version": "1.4.3",
+   "type": "library",
+   "require": {
+      "woosa/abstract": "1.*",
+      "woosa/task": "1.*",
+      "woosa/term": "1.*"
+   }
+}

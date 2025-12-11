@@ -1,0 +1,9 @@
+{
+   "name": "woosa/midlayer-oauth",
+   "version": "1.0.0",
+   "type": "library",
+   "require": {
+      "woosa/authorization": "3.*",
+      "woosa/midlayer": "3.*"
+   }
+}

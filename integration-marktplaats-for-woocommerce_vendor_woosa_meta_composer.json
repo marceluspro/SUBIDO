@@ -1,0 +1,9 @@
+{
+   "name": "woosa/meta",
+   "version": "2.4.1",
+   "type": "library",
+   "require": {
+      "woosa/option": "1.*",
+      "woosa/util": "1.*"
+   }
+}

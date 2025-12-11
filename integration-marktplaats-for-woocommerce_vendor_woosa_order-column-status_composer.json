@@ -1,0 +1,9 @@
+{
+   "name": "woosa/order-column-status",
+   "version": "1.1.1",
+   "type": "library",
+   "require": {
+      "woosa/meta": "2.*",
+      "woosa/table-column": "2.*"
+   }
+}

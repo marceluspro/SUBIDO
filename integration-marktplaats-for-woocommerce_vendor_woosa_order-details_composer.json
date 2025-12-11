@@ -1,0 +1,8 @@
+{
+   "name": "woosa/order-details",
+   "version": "1.5.4",
+   "type": "library",
+   "require": {
+      "woosa/meta": "2.*"
+   }
+}

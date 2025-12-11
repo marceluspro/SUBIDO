@@ -1,0 +1,8 @@
+{
+   "name": "woosa/order-task",
+   "version": "1.3.3",
+   "type": "library",
+   "require": {
+      "woosa/user-task": "1.*"
+   }
+}

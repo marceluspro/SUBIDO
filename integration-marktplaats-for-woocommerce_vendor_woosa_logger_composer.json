@@ -1,0 +1,8 @@
+{
+   "name": "woosa/logger",
+   "version": "3.2.2",
+   "type": "library",
+   "require": {
+		"woosa/settings": "2.*"
+   }
+}

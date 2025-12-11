@@ -1,0 +1,11 @@
+{
+   "name": "woosa/heartbeat",
+   "version": "4.1.0",
+   "type": "library",
+   "require": {
+      "woosa/action-scheduler": "1.*",
+      "woosa/midlayer": "3.*",
+      "woosa/option": "1.*",
+      "woosa/util": "1.*"
+   }
+}

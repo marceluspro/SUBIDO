@@ -1,0 +1,15 @@
+.mkt-style .button-actions button{
+   display: inline-block;
+   cursor: pointer;
+   padding: 0;
+   width: 30px;
+   height: 30px;
+   text-align: center;
+}
+
+.mkt-style .button-actions button svg{
+   width: 20px;
+   height: 20px;
+   display: inline-block;
+   vertical-align: middle;
+}

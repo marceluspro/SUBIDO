@@ -1,0 +1,819 @@
+/*
+|--------------------------------------------------------------------------
+| WIDTH
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .w-1000{
+   max-width: 1000px;
+   width: 100%;
+}
+.mkt-style .w-800{
+   max-width: 800px;
+   width: 100%;
+}
+.mkt-style .w-50p{
+   width: 50%;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| BACKGROUND COLOR
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .bg-white{
+   background: #fff;
+   border: 1px solid #ddd;
+   box-sizing: border-box;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| PADDING
+|--------------------------------------------------------------------------
+*/
+
+/*All*/
+.mkt-style .p-0{
+   padding: 0;
+}
+.mkt-style .p-5{
+   padding: 5px;
+}
+.mkt-style .p-10{
+   padding: 10px;
+}
+.mkt-style .p-15{
+   padding: 15px;
+}
+.mkt-style .p-20{
+   padding: 20px;
+}
+.mkt-style .p-25{
+   padding: 25px;
+}
+.mkt-style .p-30{
+   padding: 30px;
+}
+.mkt-style .p-35{
+   padding: 35px;
+}
+.mkt-style .p-40{
+   padding: 40px;
+}
+.mkt-style .p-45{
+   padding: 45px;
+}
+.mkt-style .p-50{
+   padding: 50px;
+}
+
+/*Top*/
+.mkt-style .pt-0{
+   padding-top: 0;
+}
+.mkt-style .pt-5{
+   padding-top: 5px;
+}
+.mkt-style .pt-10{
+   padding-top: 10px;
+}
+.mkt-style .pt-15{
+   padding-top: 15px;
+}
+.mkt-style .pt-20{
+   padding-top: 20px;
+}
+.mkt-style .pt-25{
+   padding-top: 25px;
+}
+.mkt-style .pt-30{
+   padding-top: 30px;
+}
+.mkt-style .pt-35{
+   padding-top: 35px;
+}
+.mkt-style .pt-40{
+   padding-top: 40px;
+}
+.mkt-style .pt-45{
+   padding-top: 45px;
+}
+.mkt-style .pt-50{
+   padding-top: 50px;
+}
+
+/*Right*/
+.mkt-style .pr-0{
+   padding-right: 0;
+}
+.mkt-style .pr-5{
+   padding-right: 5px;
+}
+.mkt-style .pr-10{
+   padding-right: 10px;
+}
+.mkt-style .pr-15{
+   padding-right: 15px;
+}
+.mkt-style .pr-20{
+   padding-right: 20px;
+}
+.mkt-style .pr-25{
+   padding-right: 25px;
+}
+.mkt-style .pr-30{
+   padding-right: 30px;
+}
+.mkt-style .pr-35{
+   padding-right: 35px;
+}
+.mkt-style .pr-40{
+   padding-right: 40px;
+}
+.mkt-style .pr-45{
+   padding-right: 45px;
+}
+.mkt-style .pr-50{
+   padding-right: 50px;
+}
+
+/*Bottom*/
+.mkt-style .pb-0{
+   padding-bottom: 0;
+}
+.mkt-style .pb-5{
+   padding-bottom: 5px;
+}
+.mkt-style .pb-10{
+   padding-bottom: 10px;
+}
+.mkt-style .pb-15{
+   padding-bottom: 15px;
+}
+.mkt-style .pb-20{
+   padding-bottom: 20px;
+}
+.mkt-style .pb-25{
+   padding-bottom: 25px;
+}
+.mkt-style .pb-30{
+   padding-bottom: 30px;
+}
+.mkt-style .pb-35{
+   padding-bottom: 35px;
+}
+.mkt-style .pb-40{
+   padding-bottom: 40px;
+}
+.mkt-style .pb-45{
+   padding-bottom: 45px;
+}
+.mkt-style .pb-50{
+   padding-bottom: 50px;
+}
+
+/*Left*/
+.mkt-style .pl-0{
+   padding-left: 0;
+}
+.mkt-style .pl-5{
+   padding-left: 5px;
+}
+.mkt-style .pl-10{
+   padding-left: 10px;
+}
+.mkt-style .pl-15{
+   padding-left: 15px;
+}
+.mkt-style .pl-20{
+   padding-left: 20px;
+}
+.mkt-style .pl-25{
+   padding-left: 25px;
+}
+.mkt-style .pl-30{
+   padding-left: 30px;
+}
+.mkt-style .pl-35{
+   padding-left: 35px;
+}
+.mkt-style .pl-40{
+   padding-left: 40px;
+}
+.mkt-style .pl-45{
+   padding-left: 45px;
+}
+.mkt-style .pl-50{
+   padding-left: 50px;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| MARGIN
+|--------------------------------------------------------------------------
+*/
+
+/*All*/
+.mkt-style .m-0{
+   margin: 0;
+}
+.mkt-style .m-5{
+   margin: 5px;
+}
+.mkt-style .m-10{
+   margin: 10px;
+}
+.mkt-style .m-15{
+   margin: 15px;
+}
+.mkt-style .m-20{
+   margin: 20px;
+}
+.mkt-style .m-25{
+   margin: 25px;
+}
+.mkt-style .m-30{
+   margin: 30px;
+}
+.mkt-style .m-35{
+   margin: 35px;
+}
+.mkt-style .m-40{
+   margin: 40px;
+}
+.mkt-style .m-45{
+   margin: 45px;
+}
+.mkt-style .m-50{
+   margin: 50px;
+}
+
+/*Top*/
+.mkt-style .mt-0{
+   margin-top: 0;
+}
+.mkt-style .mt-10{
+   margin-top: 10px;
+}
+.mkt-style .mt-15{
+   margin-top: 15px;
+}
+.mkt-style .mt-20{
+   margin-top: 20px;
+}
+.mkt-style .mt-25{
+   margin-top: 25px;
+}
+.mkt-style .mt-30{
+   margin-top: 30px;
+}
+.mkt-style .mt-35{
+   margin-top: 35px;
+}
+.mkt-style .mt-40{
+   margin-top: 40px;
+}
+.mkt-style .mt-45{
+   margin-top: 45px;
+}
+.mkt-style .mt-50{
+   margin-top: 50px;
+}
+
+/*Right*/
+.mkt-style .mr-0{
+   margin-right: 0;
+}
+.mkt-style .mr-5{
+   margin-right: 5px;
+}
+.mkt-style .mr-10{
+   margin-right: 10px;
+}
+.mkt-style .mr-15{
+   margin-right: 15px;
+}
+.mkt-style .mr-20{
+   margin-right: 20px;
+}
+.mkt-style .mr-25{
+   margin-right: 25px;
+}
+.mkt-style .mr-30{
+   margin-right: 30px;
+}
+.mkt-style .mr-35{
+   margin-right: 35px;
+}
+.mkt-style .mr-40{
+   margin-right: 40px;
+}
+.mkt-style .mr-45{
+   margin-right: 45px;
+}
+.mkt-style .mr-50{
+   margin-right: 50px;
+}
+
+/*Bottom*/
+.mkt-style .mb-0{
+   margin-bottom: 0;
+}
+.mkt-style .mb-5{
+   margin-bottom: 5px;
+}
+.mkt-style .mb-10{
+   margin-bottom: 10px;
+}
+.mkt-style .mb-15{
+   margin-bottom: 15px;
+}
+.mkt-style .mb-20{
+   margin-bottom: 20px;
+}
+.mkt-style .mb-25{
+   margin-bottom: 25px;
+}
+.mkt-style .mb-30{
+   margin-bottom: 30px;
+}
+.mkt-style .mb-35{
+   margin-bottom: 35px;
+}
+.mkt-style .mb-40{
+   margin-bottom: 40px;
+}
+.mkt-style .mb-45{
+   margin-bottom: 45px;
+}
+.mkt-style .mb-50{
+   margin-bottom: 50px;
+}
+
+/*Left*/
+.mkt-style .ml-0{
+   margin-left: 0;
+}
+.mkt-style .ml-5{
+   margin-left: 5px;
+}
+.mkt-style .ml-10{
+   margin-left: 10px;
+}
+.mkt-style .ml-15{
+   margin-left: 15px;
+}
+.mkt-style .ml-20{
+   margin-left: 20px;
+}
+.mkt-style .ml-25{
+   margin-left: 25px;
+}
+.mkt-style .ml-30{
+   margin-left: 30px;
+}
+.mkt-style .ml-35{
+   margin-left: 35px;
+}
+.mkt-style .ml-40{
+   margin-left: 40px;
+}
+.mkt-style .ml-45{
+   margin-left: 45px;
+}
+.mkt-style .ml-50{
+   margin-left: 50px;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TABLE
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .bc-c{
+   border-collapse: collapse;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| FIELDS
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style select,
+.mkt-style textarea,
+.mkt-style input{
+   width: 100% !important;
+   max-width: 300px !important;
+}
+.mkt-style input[type="radio"],
+.mkt-style input[type="checkbox"]{
+   width: 1rem !important;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| PAGINATION
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .pagination{
+   margin: 10px 0;
+   padding: 0;
+}
+   .mkt-style .pagination li{
+      display: inline;
+   }
+
+
+
+/*
+|--------------------------------------------------------------------------
+| BORDER
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .bt-1{
+   border-top: 1px solid #ddd;
+}
+.mkt-style .br-1{
+   border-right: 1px solid #ddd;
+}
+.mkt-style .bb-1{
+   border-bottom: 1px solid #ddd;
+}
+.mkt-style .bl-1{
+   border-left: 1px solid #ddd;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| VERTICAL-ALIGNMENT
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .va-t{
+   vertical-align: top;
+}
+.mkt-style .va-m{
+   vertical-align: middle;
+}
+.mkt-style .va-b{
+   vertical-align: bottom;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TEXT-ALIGNMENT
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .ta-l{
+   text-align: left;
+}
+.mkt-style .ta-c{
+   text-align: center;
+}
+.mkt-style .ta-r{
+   text-align: right;
+}
+.mkt-style .ta-i{
+   text-align: inherit;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TEXT-TRANSFORM
+|--------------------------------------------------------------------------
+*/
+.mkt-style .tt-u{
+    text-transform: uppercase;
+}
+
+.mkt-style .tt-c{
+    text-transform: capitalize;
+}
+
+.mkt-style .tt-l{
+    text-transform: lowercase;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| SVG-ICONS
+|--------------------------------------------------------------------------
+*/
+.mkt-style .icon-small svg{
+   width: 12px;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TEXT-STYLE
+|--------------------------------------------------------------------------
+*/
+.mkt-style .tb{
+   font-weight: 700;
+}
+
+
+
+/*
+|--------------------------------------------------------------------------
+| ALERT BOX
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .alertbox{
+   padding: 15px;
+   clear: both;
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 3px;
+}
+   .mkt-style .alertbox h3,
+   .mkt-style .alertbox h2{
+      border: 0 !important;
+      padding: 0 !important;
+      margin: 0 0 10px 0 !important;
+   }
+
+   .mkt-style .alertbox ul{
+      margin: 0 0 0 20px;
+   }
+      .mkt-style .alertbox ul li{
+         list-style: disc;
+         margin: 0;
+      }
+         .mkt-style .alertbox ul li > ul li{
+            list-style: square;
+         }
+
+   .mkt-style .alertbox table{
+      width:100%;
+      border-collapse: collapse;
+   }
+      .mkt-style .alertbox table th{
+         text-align: left;
+      }
+
+.mkt-style .alertbox--red{
+   color: #721c24;
+   background-color: #fae8ea;
+   border-color: #f5c6cb;
+}
+   .mkt-style .alertbox--red > * {
+      color: #721c24 !important;
+   }
+
+   .mkt-style .alertbox--red table th,
+   .mkt-style .alertbox--red table td{
+      border: 1px solid #f5c6cb;
+   }
+
+.mkt-style .alertbox--yellow{
+   color: #eba900;
+   background-color: #fefaf2;
+   border-color: #f9e5b5;
+}
+   .mkt-style .alertbox--yellow > * {
+      color: #eba900 !important;
+   }
+
+   .mkt-style .alertbox--yellow table th,
+   .mkt-style .alertbox--yellow table td{
+      border: 1px solid #f9e5b5;
+   }
+
+.mkt-style .alertbox--blue{
+   color: #004085;
+   background-color: #d7ebff;
+   border-color: #b8daff;
+}
+   .mkt-style .alertbox--blue > * {
+      color: #004085 !important;
+   }
+
+   .mkt-style .alertbox--blue table th,
+   .mkt-style .alertbox--blue table td{
+      border: 1px solid #b8daff;
+   }
+
+.mkt-style .alertbox--green{
+   color: #155724;
+   background-color: #ddf6e3;
+   border-color: #c3e6cb;
+}
+   .mkt-style .alertbox--green > * {
+      color: #155724 !important;
+   }
+
+   .mkt-style .alertbox--blue table th,
+   .mkt-style .alertbox--blue table td{
+      border: 1px solid #c3e6cb;
+   }
+
+
+
+/*
+|--------------------------------------------------------------------------
+| SORTABLE
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .sortable-list .ui-sortable-placeholder{
+   height: 50px;
+}
+
+.mkt-style .sortable-list__item{
+   border: 1px solid #ddd;
+   padding: 10px 10px 10px 40px;
+   cursor: move;
+   background: #fbfbfb;
+   position: relative;
+}
+
+   .mkt-style .sortable-list__item .dashicons{
+      position: absolute;
+      left: 5px;
+      top: 10px;
+      color: #8f8f8f;
+   }
+
+   .mkt-style .sortable-list__item:hover{
+      background: #f6faff;
+   }
+
+   .mkt-style .sortable-list__item-name{
+      font-weight: bold;
+      margin-bottom: 10px;
+   }
+   .mkt-style .sortable-list__item-info{
+      font-size: 12px;
+      font-style: italic;
+      color: #8f8f8f;
+   }
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TAB LIST
+|--------------------------------------------------------------------------
+*/
+
+.mkt-tab-wrapper .nav-tab{
+   cursor: pointer;
+}
+
+   .mkt-tab-wrapper .nav-tab > .dashicons{
+      line-height: 26px;
+      height: 24px;
+   }
+
+.mkt-tab-wrapper .nav-tab-active,
+.mkt-tab-wrapper .nav-tab-active:focus,
+.mkt-tab-wrapper .nav-tab-active:focus:active,
+.mkt-tab-wrapper .nav-tab-active:hover {
+   border-bottom: 1px solid #ffffff;
+   background: #ffffff;
+}
+
+.mkt-panel-wrapper .mkt-panel{
+   display: none;
+   padding: 15px 0 0;
+}
+   .mkt-panel-wrapper .mkt-panel.mkt-panel--active{
+      display: block;
+   }
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| TIP ICONS
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .icon-tip-info::after {
+   content: "\f348" !important;
+   color: #18ace6;
+}
+
+.mkt-style .icon-tip-error::after {
+   content: "\f534" !important;
+   color: #a44;
+}
+
+.mkt-style .icon-tip-success::after {
+   content: "\f12a" !important;
+   color: #409e48;
+}
+
+.mkt-style .icon-tip-warning::after {
+   content: "\f12a" !important;
+   color: #ffb900;
+}
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| MISC
+|--------------------------------------------------------------------------
+*/
+
+.mkt-style .ajax-response.error,/*<--- this will be removed, do not use it anymore*/
+.mkt-style .text-color--error *,
+.mkt-style .text-color--error{
+   color: #a30000;
+}
+.mkt-style .ajax-response.success,/*<--- this will be removed, do not use it anymore*/
+.mkt-style .text-color--success *,
+.mkt-style .text-color--success{
+   color: #68BD6D;
+}
+
+.mkt-style .box-headline{
+   font-size: 20px;
+   line-height: 30px;
+   font-weight: bold;
+   margin: 0 0 10px;
+   padding: 0 0 10px;
+   border-bottom: 1px solid #ddd;
+   color: #1d2327;
+}
+   .mkt-style .box-headline > .dashicons{
+      line-height: 30px;
+      height: 30px;
+   }
+
+[class*="column-bol_account_"],
+.manage-column.column-mkt_product_type,
+.manage-column.column-mkt_product_status{
+   width: 11%;
+}
+
+
+.mkt-tb-label-status {
+   display: -webkit-inline-box;
+   display: inline-flex;
+   line-height: 2.5em;
+   color: #777;
+   background: #e5e5e5;
+   border-radius: 4px;
+   border-bottom: 1px solid rgba(0,0,0,.05);
+   margin: -0.25em 0;
+   cursor: inherit!important;
+   white-space: nowrap;
+   max-width: 100%;
+}
+   .mkt-tb-label-status>span {
+      margin: 0 1em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+   }
+   .mkt-tb-label-status.success {
+      background: #c6e1c6;
+      color: #5b841b;
+   }
+   .mkt-tb-label-status.error {
+      background: #eba3a3;
+      color: #761919;
+   }
+   .mkt-tb-label-status.warning {
+      background: #f8dda7;
+      color: #94660c;
+   }
+   .mkt-tb-label-status.info {
+      background: #c8d7e1;
+      color: #2e4453;
+   }

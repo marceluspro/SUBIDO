@@ -1,0 +1,10 @@
+{
+   "name": "woosa/category-mapping",
+   "version": "2.4.0",
+   "type": "library",
+   "require": {
+      "woosa/category-selection": "1.*",
+      "woosa/field-generator": "1.*",
+		"woosa/settings": "2.*"
+   }
+}

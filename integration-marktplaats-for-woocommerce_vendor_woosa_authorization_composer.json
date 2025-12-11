@@ -1,0 +1,8 @@
+{
+   "name": "woosa/authorization",
+   "version": "3.4.0",
+   "type": "library",
+   "require": {
+		"woosa/settings": "2.*"
+   }
+}

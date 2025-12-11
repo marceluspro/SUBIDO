@@ -1,0 +1,12 @@
+{
+   "name": "woosa/change-tracker",
+   "version": "2.3.0",
+   "type": "library",
+   "require": {
+      "woosa/meta": "2.*",
+      "woosa/task": "1.*",
+      "woosa/order-task": "1.*",
+      "woosa/product-task": "1.*",
+      "woosa/user-task": "1.*"
+   }
+}
